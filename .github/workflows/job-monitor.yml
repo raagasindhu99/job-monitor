@@ -24,12 +24,18 @@ jobs:
         run: pip install requests pandas openpyxl beautifulsoup4 lxml
 
       - name: Fetch job listings
-        run: python scripts/fetch_jobs.py
+        run: python job-monitor/scripts/fetch_jobs.py
+
+      - name: Copy dashboard to root for GitHub Pages
+        run: |
+          cp job-monitor/index.html index.html
+          cp job-monitor/jobs.json jobs.json
+          cp job-monitor/job_monitor.xlsx job_monitor.xlsx 2>/dev/null || true
 
       - name: Commit and push updated dashboard
         run: |
           git config user.name "Job Monitor Bot"
           git config user.email "bot@job-monitor.local"
-          git add index.html jobs.json job_monitor.xlsx
+          git add index.html jobs.json job_monitor.xlsx job-monitor/
           git diff --staged --quiet || git commit -m "🔄 Auto-refresh: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
