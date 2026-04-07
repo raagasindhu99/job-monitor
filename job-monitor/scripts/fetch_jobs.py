@@ -43,34 +43,32 @@ import pandas as pd
 
 # ─── Config — Tailored to Raaga's profile ───────────────────────────────────────
 TARGET_TITLES = [
-    # Core strength
-    "data analyst", "senior data analyst", "data analyst ii",
-    # Analytics Engineering (her ETL/Snowflake/BigQuery stack)
-    "analytics engineer", "analytics engineering",
-    # BI (Tableau, Power BI, Looker across all 3 jobs)
-    "business intelligence analyst", "bi analyst", "bi engineer",
-    "business intelligence engineer", "bi developer",
-    # Data Science (WGU regression/clustering + NASA ML pipeline)
-    "data scientist", "applied data scientist", "staff data scientist",
-    "research data scientist",
-    # Research / Quant (WGU title was Senior Research Analyst)
-    "research analyst", "quantitative analyst", "quant analyst",
-    "decision scientist",
-    # Product analytics (A/B testing, segmentation, churn)
-    "product analyst", "product data analyst", "product data scientist",
-    "growth analyst", "marketing analyst",
-    # People / Workforce Analytics (WGU labor market work)
-    "people analyst", "people analytics", "workforce analyst",
-    "workforce analytics", "hr analytics",
-    # Applied ML (NASA Vertex AI pipeline)
-    "ml analyst", "machine learning analyst", "applied ml",
-    "data science analyst",
+    # Core strength — Data Analyst
+    "data analyst", "senior data analyst", "data analyst ii", "data analyst iii",
+    # Analytics Engineering
+    "analytics engineer", "analytics engineering", "analytic engineer",
+    # BI
+    "business intelligence", "bi analyst", "bi engineer", "bi developer",
+    "business analyst",
+    # Data Science
+    "data scientist", "data science",
+    # ML (NASA pipeline experience)
+    "machine learning", "ml engineer", "ml analyst", "applied scientist",
+    # Research / Quant
+    "research analyst", "quantitative analyst", "quant analyst", "decision scientist",
+    # Product analytics
+    "product analyst", "product data", "growth analyst", "marketing analyst",
+    "marketing data", "insights analyst",
+    # People / Workforce Analytics
+    "people analyst", "people analytics", "workforce analyst", "workforce analytics",
+    "hr analyst", "hr analytics",
+    # General data roles
+    "data science analyst", "reporting analyst", "operations analyst",
 ]
 
 EXCLUDE_TITLES = [
-    "staff engineer", "principal engineer", "director", " vp ", "vice president",
-    "head of", " manager", "intern", "co-op", "junior ", "associate analyst",
-    "data entry", "data architect", "data governance lead"
+    "director", "vp ", "vice president", "head of", "intern", "co-op",
+    "data entry", "data governance lead", "chief "
 ]
 
 HEADERS = {
@@ -80,6 +78,110 @@ HEADERS = {
 
 TIMESTAMP = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 ROOT = Path(__file__).parent.parent
+
+# ─── H1B Sponsor List (DOL LCA disclosure data — top tech/data employers) ────────
+# Source: USCIS/DOL public H1B filing records, curated for data/analytics roles
+H1B_SPONSORS = {
+    # Big Tech (own ATS systems — monitored via job boards)
+    "amazon", "google", "alphabet", "microsoft", "meta", "apple", "netflix",
+    "tesla", "uber", "lyft", "airbnb", "twitter", "x corp",
+    # Cloud / Data Platforms
+    "databricks", "snowflake", "confluent", "mongodb", "elastic", "datadog",
+    "dbt labs", "fivetran", "palantir", "splunk", "tableau", "looker",
+    "informatica", "talend", "alteryx", "qlik", "microstrategy",
+    # Enterprise Software
+    "salesforce", "oracle", "sap", "adobe", "cisco", "intel", "ibm",
+    "qualcomm", "nvidia", "amd", "broadcom", "vmware", "servicenow",
+    "workday", "veeva", "zendesk", "hubspot", "twilio",
+    # Consulting / Big 4 (heavy H1B sponsors)
+    "deloitte", "accenture", "pwc", "ernst & young", "ey", "kpmg",
+    "mckinsey", "bcg", "bain", "boston consulting", "capgemini",
+    "cognizant", "infosys", "tcs", "tata consultancy", "wipro",
+    "hcl", "hcl technologies", "tech mahindra", "mphasis", "hexaware",
+    "ltimindtree", "persistent systems",
+    # Finance / Banking
+    "jpmorgan", "jp morgan", "goldman sachs", "morgan stanley",
+    "bank of america", "wells fargo", "citibank", "citi", "capital one",
+    "american express", "amex", "visa", "mastercard", "paypal",
+    "stripe", "square", "block", "robinhood", "coinbase",
+    "blackrock", "vanguard", "fidelity", "charles schwab",
+    # Healthcare / Biotech
+    "unitedhealth", "anthem", "aetna", "humana", "cigna",
+    "johnson & johnson", "pfizer", "abbvie", "amgen", "genentech",
+    "roche", "novartis", "merck", "eli lilly", "bristol myers",
+    "illumina", "10x genomics", "moderna",
+    # Retail / E-commerce
+    "walmart", "target", "costco", "kroger",
+    "wayfair", "chewy", "etsy", "ebay",
+    # Media / Entertainment
+    "disney", "warner", "comcast", "nbcuniversal",
+    "spotify", "soundcloud", "twitch",
+    # Telecom
+    "at&t", "verizon", "t-mobile",
+    # Automotive / Manufacturing
+    "ford", "general motors", "gm", "boeing", "lockheed",
+    # Startups / SaaS (known H1B sponsors)
+    "stripe", "plaid", "chime", "brex", "ramp", "rippling", "gusto",
+    "amplitude", "mixpanel", "segment", "braze", "klaviyo",
+    "figma", "notion", "airtable", "asana", "monday",
+    "grammarly", "canva", "miro", "retool",
+    "scale ai", "scale-ai", "cohere", "anthropic", "openai",
+    "hugging face", "weights & biases", "wandb",
+    "reddit", "discord", "pinterest", "quora",
+    "doordash", "instacart", "gopuff",
+    "opendoor", "compass", "zillow", "redfin",
+    "duolingo", "coursera", "udemy", "chegg",
+    "zendesk", "freshworks", "sprinklr",
+    "pagerduty", "hashicorp", "cloudflare", "fastly",
+    "dataiku", "domino data lab", "c3 ai",
+    "veritone", "appen", "labelbox",
+}
+
+def is_h1b_sponsor(company: str) -> bool:
+    """Check if a company is a known H1B sponsor."""
+    c = company.lower().strip()
+    return any(sponsor in c or c in sponsor for sponsor in H1B_SPONSORS)
+
+# ─── Workday companies (POST API — no key needed) ────────────────────────────────
+# Format: (workday_slug, instance_num, career_site_name, display_name)
+WORKDAY_COMPANIES = [
+    # Enterprise / Consulting (heavy H1B sponsors)
+    ("salesforce",      "12", "External_Career_Website",        "Salesforce"),
+    ("adobe",           "5",  "Experienced_Hire",               "Adobe"),
+    ("cisco",           "5",  "Cisco",                          "Cisco"),
+    ("intel",           "1",  "External",                       "Intel"),
+    ("oracle",          "1",  "External",                       "Oracle"),
+    ("capitalone",      "1",  "Capital_One",                    "Capital One"),
+    ("goldmansachs",    "1",  "External_Career_Site",           "Goldman Sachs"),
+    ("jpmorganchase",   "5",  "External",                       "JPMorgan Chase"),
+    ("deloitteus",      "1",  "Experienced_Hire",               "Deloitte"),
+    ("mckinsey",        "12", "McKinsey_Global",                "McKinsey"),
+    ("walmart",         "5",  "WorkingAtWalmart",               "Walmart"),
+    ("target",          "5",  "T-Target",                       "Target"),
+    ("accenture",       "103","Accenture-External-Career-Site", "Accenture"),
+    ("paypal",          "5",  "External",                       "PayPal"),
+    ("qualcomm",        "5",  "External",                       "Qualcomm"),
+    ("nvidia",          "1",  "External",                       "NVIDIA"),
+    ("doordash",        "5",  "External",                       "DoorDash"),
+    ("wayfair",         "5",  "Wayfair_Careers",                "Wayfair"),
+    ("duolingo",        "5",  "External",                       "Duolingo"),
+    ("spotify",         "5",  "External",                       "Spotify"),
+    ("pagerduty",       "5",  "External",                       "PagerDuty"),
+]
+
+# ─── Ashby companies (public API — many funded startups) ─────────────────────────
+ASHBY_COMPANIES = [
+    "openai", "perplexity", "mistral", "together-ai", "anyscale",
+    "modal", "replicate", "baseten", "bentoml",
+    "dbtlabs", "lightdash", "evidence", "rill",
+    "motherduck", "turntable", "recap",
+    "linear", "retool", "airplane", "superblocks",
+    "hex", "deepnote", "marimo",
+    "census", "hightouch", "polytomic",
+    "synq", "atlan", "secoda", "metaphor",
+    "chalk", "tecton", "fennel",
+    "continual", "superwise", "arize",
+]
 
 # ─── Greenhouse companies — strong data/analytics hiring ────────────────────────
 # Focused on companies that hire data analysts, analytics engineers, BI, data scientists
@@ -137,9 +239,11 @@ def clean_html(text: str, max_len: int = 400) -> str:
     text = re.sub(r'\s+', ' ', text).strip()
     return text[:max_len]
 
-def safe_get(url, **kwargs) -> requests.Response | None:
+def safe_get(url, extra_headers=None, timeout=25, **kwargs) -> requests.Response | None:
+    """Make a GET request, merging any extra headers with defaults."""
     try:
-        r = requests.get(url, headers=HEADERS, timeout=20, **kwargs)
+        hdrs = {**HEADERS, **(extra_headers or {})}
+        r = requests.get(url, headers=hdrs, timeout=timeout, **kwargs)
         if r.status_code == 200:
             return r
     except Exception as e:
@@ -315,7 +419,7 @@ def fetch_greenhouse() -> list[dict]:
 def fetch_lever() -> list[dict]:
     jobs = []
     for company in LEVER_COMPANIES:
-        r = safe_get(f"https://api.lever.co/v0/postings/{company}?mode=json&limit=50")
+        r = safe_get(f"https://api.lever.co/v0/postings/{company}?mode=json&limit=50", timeout=10)
         if not r:
             continue
         try:
@@ -403,7 +507,7 @@ def fetch_jobright() -> list[dict]:
     queries = ["data-scientist", "machine-learning-engineer", "data-analyst"]
     for q in queries:
         url = f"https://jobright.ai/jobs/{q}"
-        r = safe_get(url, headers={**HEADERS, "Accept": "text/html"})
+        r = safe_get(url, extra_headers={"Accept": "text/html"})
         if not r:
             continue
         try:
@@ -443,6 +547,198 @@ def fetch_jobright() -> list[dict]:
     print(f"  Jobright.ai: {len(jobs)} jobs")
     return jobs
 
+# ─── Workday (POST API — no auth needed) ─────────────────────────────────────────
+def fetch_workday() -> list[dict]:
+    jobs, seen = [], set()
+    search_terms = ["data analyst", "analytics engineer", "data scientist",
+                    "machine learning", "business intelligence", "product analyst"]
+    for slug, instance, site, display in WORKDAY_COMPANIES:
+        base = f"https://{slug}.wd{instance}.myworkdayjobs.com/wday/cxs/{slug}/{site}/jobs"
+        for term in search_terms:
+            try:
+                payload = {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": term}
+                r = requests.post(base, json=payload,
+                                  headers={**HEADERS, "Content-Type": "application/json"},
+                                  timeout=15)
+                if r.status_code != 200:
+                    continue
+                data = r.json()
+                for item in data.get("jobPostings", []):
+                    title = item.get("title", "")
+                    job_id = item.get("externalPath", title)
+                    if job_id in seen or not is_relevant(title):
+                        continue
+                    seen.add(job_id)
+                    posted_on = item.get("postedOn", "")
+                    loc = item.get("locationsText", "N/A")
+                    url = f"https://{slug}.wd{instance}.myworkdayjobs.com/en-US/{site}{item.get('externalPath','')}"
+                    jobs.append({
+                        "id": f"workday-{slug}-{job_id[-20:]}",
+                        "title": title,
+                        "company": display,
+                        "location": loc,
+                        "url": url,
+                        "posted": posted_on[:10] if posted_on else "",
+                        "source": "Workday",
+                        "tags": [],
+                        "description": item.get("jobDescription", {}).get("descriptor", "")[:300],
+                        "salary": "",
+                        "h1b": is_h1b_sponsor(display),
+                    })
+                time.sleep(0.3)
+            except Exception as e:
+                print(f"    ⚠ Workday {display} '{term}': {e}")
+        time.sleep(0.2)
+    print(f"  Workday: {len(jobs)} jobs")
+    return jobs
+
+# ─── Ashby (funded startups — many sponsor H1B) ──────────────────────────────────
+def fetch_ashby() -> list[dict]:
+    jobs, seen = [], set()
+    for company in ASHBY_COMPANIES:
+        r = safe_get(f"https://api.ashbyhq.com/posting-public/job-board/{company}")
+        if not r:
+            continue
+        try:
+            data = r.json()
+            for item in data.get("jobPostings", []):
+                title = item.get("title", "")
+                job_id = item.get("id", "")
+                if job_id in seen or not is_relevant(title):
+                    continue
+                seen.add(job_id)
+                loc_list = item.get("locationName", "") or item.get("isRemote", "")
+                loc = loc_list if isinstance(loc_list, str) else ("Remote" if loc_list else "N/A")
+                display = item.get("organizationName", company.title())
+                jobs.append({
+                    "id": f"ashby-{job_id}",
+                    "title": title,
+                    "company": display,
+                    "location": loc,
+                    "url": item.get("jobUrl", f"https://jobs.ashbyhq.com/{company}"),
+                    "posted": (item.get("publishedDate", "") or "")[:10],
+                    "source": "Ashby",
+                    "tags": [item.get("departmentName", "")] if item.get("departmentName") else [],
+                    "description": clean_html(item.get("descriptionHtml", ""))[:300],
+                    "salary": "",
+                    "h1b": is_h1b_sponsor(display),
+                })
+        except Exception as e:
+            print(f"    ⚠ Ashby {company}: {e}")
+        time.sleep(0.2)
+    print(f"  Ashby: {len(jobs)} jobs")
+    return jobs
+
+# ─── Adzuna (aggregates LinkedIn, Indeed, Glassdoor & more) ─────────────────────
+def fetch_adzuna() -> list[dict]:
+    """
+    Adzuna has a free public API (no key for basic use via their job search endpoint).
+    Aggregates jobs from LinkedIn, Indeed, Glassdoor, and 100+ job boards.
+    """
+    jobs, seen = [], set()
+    queries = [
+        "data analyst", "analytics engineer", "data scientist",
+        "machine learning engineer", "business intelligence analyst",
+        "product analyst", "people analytics"
+    ]
+    for q in queries:
+        q_enc = q.replace(" ", "%20")
+        # Try US jobs (country=us)
+        url = f"https://api.adzuna.com/v1/api/jobs/us/search/1?app_id=&app_key=&results_per_page=20&what={q_enc}&content-type=application/json"
+        r = safe_get(url)
+        if not r:
+            # fallback: public search endpoint
+            url2 = f"https://api.adzuna.com/v1/api/jobs/us/search/1?results_per_page=20&what={q_enc}"
+            r = safe_get(url2)
+        if not r:
+            continue
+        try:
+            for item in r.json().get("results", []):
+                title = item.get("title", "")
+                job_id = str(item.get("id", ""))
+                if job_id in seen or not is_relevant(title):
+                    continue
+                seen.add(job_id)
+                loc = item.get("location", {}).get("display_name", "N/A")
+                company = item.get("company", {}).get("display_name", "N/A")
+                jobs.append({
+                    "id": f"adzuna-{job_id}",
+                    "title": title,
+                    "company": company,
+                    "location": loc,
+                    "url": item.get("redirect_url", ""),
+                    "posted": (item.get("created", "") or "")[:10],
+                    "source": "Adzuna",
+                    "tags": item.get("category", {}).get("label", "").split("/")[:4],
+                    "description": clean_html(item.get("description", "")),
+                    "salary": str(int(item.get("salary_min", 0))) if item.get("salary_min") else "",
+                })
+        except Exception as e:
+            print(f"    ⚠ Adzuna parse error: {e}")
+        time.sleep(0.3)
+    print(f"  Adzuna: {len(jobs)} jobs")
+    return jobs
+
+# ─── LinkedIn Jobs via public feed ───────────────────────────────────────────────
+def fetch_linkedin_feed() -> list[dict]:
+    """
+    LinkedIn public job search (no login, no API key).
+    Uses their public job listing URLs with JSON-LD structured data.
+    """
+    jobs, seen = [], set()
+    searches = [
+        ("data analyst", "2"),
+        ("analytics engineer", "2"),
+        ("data scientist", "2"),
+        ("machine learning engineer", "2"),
+        ("business intelligence analyst", "2"),
+        ("product analyst", "2"),
+    ]
+    for keywords, exp_level in searches:
+        kw_enc = keywords.replace(" ", "%20")
+        # f_E=2 = mid-senior level, f_TPR=r604800 = past week
+        url = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={kw_enc}&f_E={exp_level}&f_TPR=r604800&start=0"
+        r = safe_get(url, extra_headers={"Accept": "text/html,application/xhtml+xml"})
+        if not r:
+            continue
+        try:
+            soup = BeautifulSoup(r.text, "html.parser")
+            cards = soup.find_all("li")
+            for card in cards[:10]:
+                title_el = card.find("h3")
+                title = title_el.get_text(strip=True) if title_el else ""
+                if not title or not is_relevant(title):
+                    continue
+                company_el = card.find("h4")
+                company = company_el.get_text(strip=True) if company_el else "N/A"
+                loc_el = card.find("span", class_=re.compile("job-search-card__location", re.I))
+                loc = loc_el.get_text(strip=True) if loc_el else "N/A"
+                link_el = card.find("a", href=True)
+                link = link_el["href"].split("?")[0] if link_el else ""
+                job_id = link.split("/")[-1] if link else title + company
+                if job_id in seen:
+                    continue
+                seen.add(job_id)
+                time_el = card.find("time")
+                posted = time_el.get("datetime", "")[:10] if time_el else ""
+                jobs.append({
+                    "id": f"linkedin-{job_id}",
+                    "title": title,
+                    "company": company,
+                    "location": loc,
+                    "url": link,
+                    "posted": posted,
+                    "source": "LinkedIn",
+                    "tags": [],
+                    "description": "",
+                    "salary": "",
+                })
+        except Exception as e:
+            print(f"    ⚠ LinkedIn parse error for '{keywords}': {e}")
+        time.sleep(1)
+    print(f"  LinkedIn: {len(jobs)} jobs")
+    return jobs
+
 # ─── Deduplicate ─────────────────────────────────────────────────────────────────
 def deduplicate(jobs: list[dict]) -> list[dict]:
     seen, unique = set(), []
@@ -460,6 +756,7 @@ def generate_excel(jobs: list[dict], path: Path):
         rows.append({
             "Job Title": j["title"],
             "Company": j["company"],
+            "H1B Sponsor": "✅ Yes" if j.get("h1b") else "❓ Unknown",
             "Location": j["location"],
             "Source": j["source"],
             "Posted": j["posted"],
@@ -501,7 +798,9 @@ def generate_html(jobs: list[dict]) -> str:
     source_colors = {
         "RemoteOK": "#4f46e5", "Arbeitnow": "#0891b2", "The Muse": "#059669",
         "Himalayas": "#d97706", "Greenhouse": "#16a34a", "Lever": "#dc2626",
-        "Indeed": "#2563eb", "Jobright.ai": "#9333ea"
+        "Indeed": "#2563eb", "Jobright.ai": "#9333ea",
+        "Adzuna": "#0f766e", "LinkedIn": "#0a66c2",
+        "Workday": "#f59e0b", "Ashby": "#7c3aed"
     }
 
     # Pre-build dynamic HTML parts to avoid backslash-in-f-string errors (Python < 3.12)
@@ -557,6 +856,9 @@ input[type=text]:focus{{border-color:#4f46e5}}
 .apply{{display:inline-block;background:#4f46e5;color:#fff;padding:7px 16px;border-radius:8px;text-decoration:none;font-size:12.5px;font-weight:600;margin-top:auto;transition:.15s;text-align:center}}
 .apply:hover{{background:#4338ca}}
 .no-results{{text-align:center;padding:70px 20px;color:#94a3b8;display:none}}
+.h1b-badge{{background:#dcfce7;color:#15803d;padding:2px 8px;border-radius:5px;font-size:11px;font-weight:600}}
+.h1b-btn{{padding:7px 14px;border:1.5px solid #15803d;border-radius:8px;background:white;color:#15803d;font-size:13px;font-weight:600;cursor:pointer;transition:.2s}}
+.h1b-btn:hover{{background:#f0fdf4}}
 footer{{text-align:center;padding:30px;color:#94a3b8;font-size:12px}}
 @media(max-width:600px){{.grid{{grid-template-columns:1fr}}.header{{padding:20px}}.controls{{padding:10px 16px}}}}
 </style>
@@ -584,6 +886,7 @@ footer{{text-align:center;padding:30px;color:#94a3b8;font-size:12px}}
     <option value="company">Sort: Company A–Z</option>
     <option value="source">Sort: Source</option>
   </select>
+  <button class="h1b-btn" id="h1bBtn" onclick="toggleH1B(this)">🟢 H1B Sponsors Only</button>
   <a href="job_monitor.xlsx" style="margin-left:auto;padding:7px 14px;background:#059669;color:#fff;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600">⬇ Download Excel</a>
 </div>
 
@@ -598,11 +901,19 @@ footer{{text-align:center;padding:30px;color:#94a3b8;font-size:12px}}
 const ALL_JOBS = {jobs_json};
 const SOURCE_COLORS = {source_colors_json};
 let activeSource = 'all';
+let h1bOnly = false;
 
 function filterSource(el, src) {{
   activeSource = src;
   document.querySelectorAll('.src-badge').forEach(b => b.classList.remove('active'));
   el.classList.add('active');
+  render();
+}}
+
+function toggleH1B(btn) {{
+  h1bOnly = !h1bOnly;
+  btn.style.background = h1bOnly ? '#15803d' : '';
+  btn.style.color = h1bOnly ? '#fff' : '';
   render();
 }}
 
@@ -616,7 +927,8 @@ function render() {{
       j.company.toLowerCase().includes(q) ||
       (j.tags || []).join(' ').toLowerCase().includes(q) ||
       j.description.toLowerCase().includes(q);
-    return matchSrc && matchQ;
+    const matchH1B = !h1bOnly || j.h1b === true;
+    return matchSrc && matchQ && matchH1B;
   }});
 
   filtered.sort((a, b) => {{
@@ -638,6 +950,7 @@ function render() {{
     const desc = j.description ? `<p class="desc">${{j.description.slice(0,220)}}${{j.description.length > 220 ? '…' : ''}}</p>` : '';
     const salary = j.salary ? `<span>💰 ${{j.salary}}</span>` : '';
     const posted = j.posted ? `<span>📅 ${{j.posted}}</span>` : '';
+    const h1bBadge = j.h1b ? '<span class="h1b-badge">🟢 H1B Sponsor</span>' : '';
     return `
     <div class="card">
       <div class="card-top">
@@ -649,7 +962,7 @@ function render() {{
       </div>
       ${{desc}}
       <div class="tags">${{tags}}</div>
-      <div class="meta">${{salary}} ${{posted}}</div>
+      <div class="meta">${{h1bBadge}} ${{salary}} ${{posted}}</div>
       <a href="${{j.url}}" target="_blank" class="apply">Apply Now →</a>
     </div>`;
   }}).join('');
@@ -673,8 +986,12 @@ def main():
         ("Himalayas", fetch_himalayas),
         ("Greenhouse", fetch_greenhouse),
         ("Lever", fetch_lever),
+        ("Workday", fetch_workday),
+        ("Ashby", fetch_ashby),
         ("Indeed RSS", fetch_indeed_rss),
         ("Jobright.ai", fetch_jobright),
+        ("Adzuna", fetch_adzuna),
+        ("LinkedIn", fetch_linkedin_feed),
     ]
 
     for name, fn in fetchers:
@@ -686,7 +1003,13 @@ def main():
             print(f"  ⚠ {name} failed: {e}")
 
     all_jobs = deduplicate(all_jobs)
+    # Tag every job with H1B sponsor status
+    for job in all_jobs:
+        if "h1b" not in job:
+            job["h1b"] = is_h1b_sponsor(job.get("company", ""))
     all_jobs.sort(key=lambda x: x.get("posted", ""), reverse=True)
+    h1b_count = sum(1 for j in all_jobs if j.get("h1b"))
+    print(f"🟢 H1B sponsor jobs: {h1b_count} of {len(all_jobs)}")
 
     print(f"\n✅ Total unique jobs: {len(all_jobs)}")
 
