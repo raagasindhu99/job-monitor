@@ -192,6 +192,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-data-scientist-at-glocomms-4398419364",
+    "title": "Data Scientist",
+    "company": "Glocomms",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-glocomms-4398419364",
+    "posted": "2026-04-07",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-business-intelligence-bi-analyst-at-gcon-llc-4385609336",
     "title": "Business Intelligence (BI) Analyst",
     "company": "GCON LLC",
@@ -405,11 +418,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-data-scientist-analyst-at-why-hiring-4397930157",
-    "title": "Data Scientist (Analyst)",
-    "company": "Why Hiring",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-analyst-at-why-hiring-4397930157",
+    "id": "linkedin-machine-learning-engineer-i-at-handshake-4398057615",
+    "title": "Machine Learning Engineer I",
+    "company": "Handshake",
+    "location": "San Francisco, CA",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-handshake-4398057615",
     "posted": "2026-04-06",
     "source": "LinkedIn",
     "tags": [],
@@ -418,11 +431,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-machine-learning-engineer-i-at-handshake-4398057615",
-    "title": "Machine Learning Engineer I",
-    "company": "Handshake",
-    "location": "San Francisco, CA",
-    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-handshake-4398057615",
+    "id": "linkedin-data-scientist-at-tech-consulting-4397971257",
+    "title": "Data Scientist",
+    "company": "Tech Consulting",
+    "location": "Connecticut, United States",
+    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-tech-consulting-4397971257",
     "posted": "2026-04-06",
     "source": "LinkedIn",
     "tags": [],
@@ -444,11 +457,37 @@
     "h1b": false
   },
   {
+    "id": "linkedin-business-analyst-at-fns-inc-4385265212",
+    "title": "Business Analyst",
+    "company": "FNS, Inc.",
+    "location": "Torrance, CA",
+    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-fns-inc-4385265212",
+    "posted": "2026-04-06",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-business-analyst-at-city-of-maricopa-4397966224",
     "title": "Business Analyst",
     "company": "City of Maricopa",
     "location": "Maricopa, AZ",
     "url": "https://www.linkedin.com/jobs/view/business-analyst-at-city-of-maricopa-4397966224",
+    "posted": "2026-04-06",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-business-analyst-iii-supply-chain-optimization-26-00856-at-akraya-inc-4398091020",
+    "title": "Business Analyst III (Supply Chain Optimization): 26-00856",
+    "company": "Akraya, Inc.",
+    "location": "North Reading, MA",
+    "url": "https://www.linkedin.com/jobs/view/business-analyst-iii-supply-chain-optimization-26-00856-at-akraya-inc-4398091020",
     "posted": "2026-04-06",
     "source": "LinkedIn",
     "tags": [],
@@ -878,32 +917,6 @@
     "company": "Unum",
     "location": "Chattanooga, TN",
     "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-i-sql-ssms-adv-excel-at-unum-4395211911",
-    "posted": "2026-04-02",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-business-analyst-at-marchon-partners-4396702453",
-    "title": "Business Analyst",
-    "company": "Marchon Partners",
-    "location": "Boston, MA",
-    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-marchon-partners-4396702453",
-    "posted": "2026-04-02",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-business-analyst-at-robert-half-4395319491",
-    "title": "Business Analyst",
-    "company": "Robert Half",
-    "location": "Austin, TX",
-    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-robert-half-4395319491",
     "posted": "2026-04-02",
     "source": "LinkedIn",
     "tags": [],
@@ -1936,17 +1949,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7734812002",
+    "id": "greenhouse-7641390002",
     "title": "Senior Manager, Infrastructure Data Science",
     "company": "Databricks",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002",
     "posted": "2026-02-25",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges related to capacity planning, performance optimization, reliability",
+    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p data-renderer-start-pos=&quot;1648&quot;&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges ",
     "salary": "",
     "h1b": true
   },
