@@ -1,0 +1,37 @@
+name: Job Monitor — Refresh Every 2 Hours
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # Every 2 hours
+  workflow_dispatch:         # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests pandas openpyxl beautifulsoup4 lxml
+
+      - name: Fetch job listings
+        run: python scripts/fetch_jobs.py
+
+      - name: Commit and push updated dashboard
+        run: |
+          git config user.name "Job Monitor Bot"
+          git config user.email "bot@job-monitor.local"
+          git add index.html jobs.json job_monitor.xlsx
+          git diff --staged --quiet || git commit -m "🔄 Auto-refresh: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
