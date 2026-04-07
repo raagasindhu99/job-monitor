@@ -504,6 +504,18 @@ def generate_html(jobs: list[dict]) -> str:
         "Indeed": "#2563eb", "Jobright.ai": "#9333ea"
     }
 
+    # Pre-build dynamic HTML parts to avoid backslash-in-f-string errors (Python < 3.12)
+    src_badges_parts = ['<span class="src-badge active" style="background:#334155" onclick="filterSource(this, \'all\')">All Sources</span>']
+    for s, c in source_counts.items():
+        color = source_colors.get(s, "#6b7280")
+        badge = '<span class="src-badge" style="background:' + color + '" onclick="filterSource(this, \'' + s + '\')">' + s + ' (' + str(c) + ')</span>'
+        src_badges_parts.append(badge)
+    src_badges_html = "".join(src_badges_parts)
+
+    total_jobs = len(jobs)
+    total_sources = len(source_counts)
+    source_colors_json = json.dumps(source_colors)
+
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -554,14 +566,13 @@ footer{{text-align:center;padding:30px;color:#94a3b8;font-size:12px}}
   <h1>🎯 Raaga's Job Monitor</h1>
   <p>Data Analyst · Analytics Engineer · BI Analyst · Data Scientist · Product Analyst · Decision Scientist &nbsp;|&nbsp; Mid-level · All locations</p>
   <div class="stats">
-    <div class="stat"><div class="stat-num" id="totalJobs">{len(jobs)}</div><div class="stat-label">Jobs Found</div></div>
-    <div class="stat"><div class="stat-num">{len(source_counts)}</div><div class="stat-label">Sources</div></div>
-    <div class="stat"><div class="stat-num" id="visibleCount">{len(jobs)}</div><div class="stat-label">Showing</div></div>
+    <div class="stat"><div class="stat-num" id="totalJobs">{total_jobs}</div><div class="stat-label">Jobs Found</div></div>
+    <div class="stat"><div class="stat-num">{total_sources}</div><div class="stat-label">Sources</div></div>
+    <div class="stat"><div class="stat-num" id="visibleCount">{total_jobs}</div><div class="stat-label">Showing</div></div>
     <div class="stat"><div class="stat-num">{TIMESTAMP}</div><div class="stat-label">Last Refreshed</div></div>
   </div>
   <div class="src-badges">
-    <span class="src-badge active" style="background:#334155" onclick="filterSource('all',this)">All Sources</span>
-    {"".join([f'<span class="src-badge" style="background:{source_colors.get(s,"#6b7280")}" onclick="filterSource(\'{s}\',this)">{s} ({c})</span>' for s, c in source_counts.items()])}
+    {src_badges_html}
   </div>
 </div>
 
@@ -576,7 +587,7 @@ footer{{text-align:center;padding:30px;color:#94a3b8;font-size:12px}}
   <a href="job_monitor.xlsx" style="margin-left:auto;padding:7px 14px;background:#059669;color:#fff;border-radius:8px;text-decoration:none;font-size:13px;font-weight:600">⬇ Download Excel</a>
 </div>
 
-<p class="count-label" id="countLabel">Showing {len(jobs)} jobs</p>
+<p class="count-label" id="countLabel">Showing {total_jobs} jobs</p>
 <div class="container">
   <div class="grid" id="jobGrid"></div>
   <div class="no-results" id="noResults">No jobs match your search. Try different keywords or clear filters.</div>
@@ -585,10 +596,10 @@ footer{{text-align:center;padding:30px;color:#94a3b8;font-size:12px}}
 
 <script>
 const ALL_JOBS = {jobs_json};
-const SOURCE_COLORS = {json.dumps(source_colors)};
+const SOURCE_COLORS = {source_colors_json};
 let activeSource = 'all';
 
-function filterSource(src, el) {{
+function filterSource(el, src) {{
   activeSource = src;
   document.querySelectorAll('.src-badge').forEach(b => b.classList.remove('active'));
   el.classList.add('active');
