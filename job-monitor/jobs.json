@@ -26,19 +26,6 @@
     "h1b": true
   },
   {
-    "id": "workday-intel-ta-Analyst_JR0282358",
-    "title": "Foundry New Product Data Analyst",
-    "company": "Intel",
-    "location": "4 Locations",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-New-Product-Data-Analyst_JR0282358",
-    "posted": "Posted 8 D",
-    "source": "Workday",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": true
-  },
-  {
     "id": "workday-intel-cientist_JR0280624-1",
     "title": "Data Scientist",
     "company": "Intel",
@@ -119,6 +106,21 @@
     "h1b": true
   },
   {
+    "id": "greenhouse-7674622003",
+    "title": "Marketing Insights Analyst",
+    "company": "Fivetran",
+    "location": "Oakland, California, United States, AMER",
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7674622003",
+    "posted": "2026-04-09",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day ",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "greenhouse-7583474003",
     "title": "Senior Marketing Data Analyst",
     "company": "Fivetran",
@@ -130,6 +132,81 @@
       ""
     ],
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-5601881",
+    "title": "Data Analyst",
+    "company": "Stripe",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
+    "posted": "2026-04-09",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our miss",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7657532",
+    "title": "People Operations Analyst",
+    "company": "Asana",
+    "location": "Vancouver, BC",
+    "url": "https://www.asana.com/jobs/apply/7657532?gh_jid=7657532",
+    "posted": "2026-04-09",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;The People Team is a global team responsible for helping Asana scale with clarity, focus, and impact. We partner closely with leaders across the company to enable performance, develop talent, and build systems that support strong execution and a great employee experience. Our work spans talent and performance management, rewards, employee relations, people partnerships, and people analyti",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-6352958",
+    "title": "Senior Product Data Scientist (Analyst)",
+    "company": "Asana",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/6352958?gh_jid=6352958",
+    "posted": "2026-04-09",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Asanas &lt;strong&gt;Data Science&lt;/strong&gt; team helps us fulfill our mission by informing strategy, defining success metrics, and identifying new ways to deliver user value. Data scientists are at the crux of deepening our understanding of the customers and driving more business outcomes by leveraging experimen",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7555480",
+    "title": "Staff Data Scientist",
+    "company": "Asana",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/7555480?gh_jid=7555480",
+    "posted": "2026-04-09",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;Were looking for a Staff Data Scientist to help define Asanas growth strategy as users increasingly discover and adopt software through LLM interfaces like ChatGPT, Claude, and Gemini. With millions of knowledge workers now starting their workday in conversational AI tools, were at an inflection point in how productivity software reaches users. Youll drive Asanas acquisition playbook for ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7304867",
+    "title": "Staff Data Scientist, Marketing",
+    "company": "Asana",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/7304867?gh_jid=7304867",
+    "posted": "2026-04-09",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;The Data Science team at Asana is pivotal in fulfilling our mission by fostering a data-driven approach in shaping both our product and business strategies. In your role on the Marketing Data Science team, you will be the deepest technical expert responsible for using data and scientific techniques to design and build scalable, state-of-the-art solutions to enhance Asana’s marketing effec",
     "salary": "",
     "h1b": true
   },
@@ -173,11 +250,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-ml-engineer-at-catalyst-labs-4398673366",
+    "id": "linkedin-ml-engineer-at-catalyst-labs-4398687038",
     "title": "ML Engineer",
     "company": "Catalyst Labs",
-    "location": "Menlo Park, CA",
-    "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398673366",
+    "location": "San Francisco, CA",
+    "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398687038",
     "posted": "2026-04-09",
     "source": "LinkedIn",
     "tags": [],
@@ -283,21 +360,6 @@
       ""
     ],
     "description": "&lt;h3&gt;The role&lt;/h3&gt; &lt;p&gt;To fuel this growth, we are hiring a Senior GTM Intelligence Analyst to build the data-driven analytics team. This role is a key member of our growing GTM Analytics team and is responsible for building and maintaining data infrastructure used by our global salesforce and leadership team, with a strong emphasis on stakeholder collaboration.&lt;/p&gt; &lt;h3&gt",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7674622003",
-    "title": "Marketing Insights Analyst",
-    "company": "Fivetran",
-    "location": "Oakland, California, United States, AMER",
-    "url": "https://www.fivetran.com/careers/job?gh_jid=7674622003",
-    "posted": "2026-04-08",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day ",
     "salary": "",
     "h1b": true
   },
@@ -953,66 +1015,6 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7657532",
-    "title": "People Operations Analyst",
-    "company": "Asana",
-    "location": "Vancouver, BC",
-    "url": "https://www.asana.com/jobs/apply/7657532?gh_jid=7657532",
-    "posted": "2026-04-02",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;The People Team is a global team responsible for helping Asana scale with clarity, focus, and impact. We partner closely with leaders across the company to enable performance, develop talent, and build systems that support strong execution and a great employee experience. Our work spans talent and performance management, rewards, employee relations, people partnerships, and people analyti",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-6352958",
-    "title": "Senior Product Data Scientist (Analyst)",
-    "company": "Asana",
-    "location": "Warsaw",
-    "url": "https://www.asana.com/jobs/apply/6352958?gh_jid=6352958",
-    "posted": "2026-04-02",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Asanas &lt;strong&gt;Data Science&lt;/strong&gt; team helps us fulfill our mission by informing strategy, defining success metrics, and identifying new ways to deliver user value. Data scientists are at the crux of deepening our understanding of the customers and driving more business outcomes by leveraging experimen",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7555480",
-    "title": "Staff Data Scientist",
-    "company": "Asana",
-    "location": "San Francisco",
-    "url": "https://www.asana.com/jobs/apply/7555480?gh_jid=7555480",
-    "posted": "2026-04-02",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;Were looking for a Staff Data Scientist to help define Asanas growth strategy as users increasingly discover and adopt software through LLM interfaces like ChatGPT, Claude, and Gemini. With millions of knowledge workers now starting their workday in conversational AI tools, were at an inflection point in how productivity software reaches users. Youll drive Asanas acquisition playbook for ",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7304867",
-    "title": "Staff Data Scientist, Marketing",
-    "company": "Asana",
-    "location": "San Francisco",
-    "url": "https://www.asana.com/jobs/apply/7304867?gh_jid=7304867",
-    "posted": "2026-04-02",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;The Data Science team at Asana is pivotal in fulfilling our mission by fostering a data-driven approach in shaping both our product and business strategies. In your role on the Marketing Data Science team, you will be the deepest technical expert responsible for using data and scientific techniques to design and build scalable, state-of-the-art solutions to enhance Asana’s marketing effec",
-    "salary": "",
-    "h1b": true
-  },
-  {
     "id": "remoteok-1130956",
     "title": "Payments &amp; Billing Operations Analyst",
     "company": "Automatiq",
@@ -1224,21 +1226,6 @@
       ""
     ],
     "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and acceler",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-6282403",
-    "title": "Data Analyst",
-    "company": "Stripe",
-    "location": "Mexico City ",
-    "url": "https://stripe.com/jobs/search?gh_jid=6282403",
-    "posted": "2026-04-01",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
     "salary": "",
     "h1b": true
   },
