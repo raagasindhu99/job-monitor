@@ -798,6 +798,21 @@
     "h1b": true
   },
   {
+    "id": "greenhouse-7746033",
+    "title": "Software Engineer, Machine Learning Infrastructure",
+    "company": "Stripe",
+    "location": "Seattle, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=7746033",
+    "posted": "2026-04-03",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "greenhouse-7513613",
     "title": "Credit Business Analyst, Banking Fraud",
     "company": "Robinhood",
@@ -1228,17 +1243,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-6282403",
+    "id": "greenhouse-5416444",
     "title": "Data Analyst",
     "company": "Stripe",
-    "location": "Mexico City ",
-    "url": "https://stripe.com/jobs/search?gh_jid=6282403",
+    "location": "Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=5416444",
     "posted": "2026-04-01",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
+    "description": "&lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amoun",
     "salary": "",
     "h1b": true
   },
@@ -1383,21 +1398,6 @@
     "company": "Stripe",
     "location": "Dublin",
     "url": "https://stripe.com/jobs/search?gh_jid=7430332",
-    "posted": "2026-04-01",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7376835",
-    "title": "Software Engineer, Machine Learning Infrastructure",
-    "company": "Stripe",
-    "location": "N/A",
-    "url": "https://stripe.com/jobs/search?gh_jid=7376835",
     "posted": "2026-04-01",
     "source": "Greenhouse",
     "tags": [
@@ -1663,11 +1663,11 @@
     "h1b": false
   },
   {
-    "id": "greenhouse-7735254",
+    "id": "greenhouse-7735255",
     "title": "Principal Software Engineer II - Machine Learning - Elasticsearch",
     "company": "Elastic",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254",
+    "location": "Canada",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7735255&gh_jid=7735255",
     "posted": "2026-03-19",
     "source": "Greenhouse",
     "tags": [
@@ -1843,17 +1843,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7734812002",
+    "id": "greenhouse-7641390002",
     "title": "Senior Manager, Infrastructure Data Science",
     "company": "Databricks",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002",
     "posted": "2026-02-25",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges related to capacity planning, performance optimization, reliability",
+    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p data-renderer-start-pos=&quot;1648&quot;&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges ",
     "salary": "",
     "h1b": true
   },
@@ -2101,18 +2101,5 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether youre brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and ",
     "salary": "",
     "h1b": true
-  },
-  {
-    "id": "himalayas-Business Analyst (Loyalty/Rete",
-    "title": "Business Analyst (Loyalty/Retention)",
-    "company": "Mercuryo",
-    "location": "Spain",
-    "url": "",
-    "posted": "",
-    "source": "Himalayas",
-    "tags": [],
-    "description": "Hi! We're Mercuryo , and we're on a mission to redefine finance by blending the best of traditional banking with the power of decentralized finance (DeFi). We believe everyone deserves seamless access to Web3 and traditional financial services, so we're building the platform that makes it real: one that simplifies crypto and integrates it into the broader financial ecosystem. Since launching in 20",
-    "salary": "",
-    "h1b": false
   }
 ]
