@@ -106,6 +106,21 @@
     "h1b": true
   },
   {
+    "id": "greenhouse-7755758",
+    "title": " Senior Machine Learning Engineer, Payments",
+    "company": "Airbnb",
+    "location": "Remote-USA",
+    "url": "https://careers.airbnb.com/positions/7755758?gh_jid=7755758",
+    "posted": "2026-04-10",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stay",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "greenhouse-7801457",
     "title": "Staff Data Analyst",
     "company": "Stripe",
@@ -175,11 +190,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-data-scientist-at-ai-hub%40lmu-4398140877",
-    "title": "Data Scientist",
-    "company": "AI-HUB@LMU",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-ai-hub%40lmu-4398140877",
+    "id": "linkedin-business-intelligence-analyst-reporting-analyst-at-during-spa-filiale-di-rimini-4399065050",
+    "title": "Business Intelligence Analyst / Reporting Analyst",
+    "company": "During Spa - Filiale di Rimini",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-reporting-analyst-at-during-spa-filiale-di-rimini-4399065050",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
@@ -270,17 +285,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7734812002",
+    "id": "greenhouse-7641390002",
     "title": "Senior Manager, Infrastructure Data Science",
     "company": "Databricks",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges related to capacity planning, performance optimization, reliability",
+    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p data-renderer-start-pos=&quot;1648&quot;&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges ",
     "salary": "",
     "h1b": true
   },
@@ -584,19 +599,6 @@
     "company": "Catalyst Labs",
     "location": "California, United States",
     "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398670363",
-    "posted": "2026-04-09",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-business-intelligence-analyst-at-broadway-across-america-4399477200",
-    "title": "Business Intelligence Analyst",
-    "company": "Broadway Across America",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-broadway-across-america-4399477200",
     "posted": "2026-04-09",
     "source": "LinkedIn",
     "tags": [],
@@ -1120,6 +1122,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-machine-learning-engineer-i-at-handshake-4398057615",
+    "title": "Machine Learning Engineer I",
+    "company": "Handshake",
+    "location": "San Francisco, CA",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-handshake-4398057615",
+    "posted": "2026-04-06",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-business-analyst-at-empower-4382065637",
     "title": "Business Analyst",
     "company": "Empower",
@@ -1616,11 +1631,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7594392",
+    "id": "greenhouse-7594388",
     "title": "Data Scientist I",
     "company": "Oscar",
-    "location": "Tempe, Arizona, United States",
-    "url": "http://www.hioscar.com/careers/7594392?gh_jid=7594392",
+    "location": "Los Angeles, California, United States",
+    "url": "http://www.hioscar.com/careers/7594388?gh_jid=7594388",
     "posted": "2026-03-31",
     "source": "Greenhouse",
     "tags": [
@@ -1661,11 +1676,11 @@
     "h1b": false
   },
   {
-    "id": "greenhouse-7592191",
+    "id": "greenhouse-7592202",
     "title": "Senior Data Scientist, Data & Member Behavior",
     "company": "Oscar",
-    "location": "Los Angeles, California, United States",
-    "url": "http://www.hioscar.com/careers/7592191?gh_jid=7592191",
+    "location": "Tempe, Arizona, United States",
+    "url": "http://www.hioscar.com/careers/7592202?gh_jid=7592202",
     "posted": "2026-03-31",
     "source": "Greenhouse",
     "tags": [
