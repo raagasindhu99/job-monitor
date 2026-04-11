@@ -181,11 +181,11 @@
     "h1b": true
   },
   {
-    "id": "linkedin-junior-data-analyst-at-haystack-4398139549",
-    "title": "Junior Data Analyst",
-    "company": "Haystack",
-    "location": "Dallas-Fort Worth Metroplex",
-    "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-haystack-4398139549",
+    "id": "linkedin-process-data-analyst-at-legend-biotech-4375236652",
+    "title": "Process Data Analyst",
+    "company": "Legend Biotech",
+    "location": "Raritan, NJ",
+    "url": "https://www.linkedin.com/jobs/view/process-data-analyst-at-legend-biotech-4375236652",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
@@ -194,11 +194,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-process-data-analyst-at-legend-biotech-4375236652",
-    "title": "Process Data Analyst",
-    "company": "Legend Biotech",
-    "location": "Raritan, NJ",
-    "url": "https://www.linkedin.com/jobs/view/process-data-analyst-at-legend-biotech-4375236652",
+    "id": "linkedin-data-analyst-powerbi-and-dax-at-teksystems-4400374350",
+    "title": "Data Analyst (PowerBI And DAX)",
+    "company": "TEKsystems",
+    "location": "Schaumburg, IL",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-powerbi-and-dax-at-teksystems-4400374350",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
@@ -463,11 +463,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7440363",
+    "id": "greenhouse-7735255",
     "title": "Principal Java Engineer II - Machine Learning - Elasticsearch",
     "company": "Elastic",
-    "location": "United Kingdom",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7440363&gh_jid=7440363",
+    "location": "Canada",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7735255&gh_jid=7735255",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
@@ -848,6 +848,19 @@
     "company": "Global Technical Talent, an Inc. 5000 Company",
     "location": "Framingham, MA",
     "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
+    "posted": "2026-04-08",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-data-analyst-at-daice-labs-4398960365",
+    "title": "Data Analyst",
+    "company": "Daice Labs",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-daice-labs-4398960365",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
