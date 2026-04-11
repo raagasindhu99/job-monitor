@@ -166,17 +166,19 @@
     "h1b": true
   },
   {
-    "id": "linkedin-sales-data-analyst-1-at-onto-innovation-4250022071",
-    "title": "Sales Data Analyst 1",
-    "company": "Onto Innovation",
-    "location": "Milpitas, CA",
-    "url": "https://www.linkedin.com/jobs/view/sales-data-analyst-1-at-onto-innovation-4250022071",
+    "id": "greenhouse-7892186002",
+    "title": "Senior Data Scientist, Finance ",
+    "company": "Brex",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/7892186002?gh_jid=7892186002",
     "posted": "2026-04-10",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate",
     "salary": "",
-    "h1b": false
+    "h1b": true
   },
   {
     "id": "linkedin-junior-data-analyst-at-haystack-4398139549",
@@ -257,11 +259,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-business-intelligence-analyst-at-shamrock-trading-corporation-4375269149",
-    "title": "Business Intelligence Analyst",
-    "company": "Shamrock Trading Corporation",
-    "location": "Overland Park, KS",
-    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-shamrock-trading-corporation-4375269149",
+    "id": "linkedin-business-intelligence-analyst-ii-at-the-standard-4397665520",
+    "title": "Business Intelligence Analyst II",
+    "company": "The Standard",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-ii-at-the-standard-4397665520",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
@@ -461,11 +463,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7735255",
+    "id": "greenhouse-7440363",
     "title": "Principal Java Engineer II - Machine Learning - Elasticsearch",
     "company": "Elastic",
-    "location": "Canada",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7735255&gh_jid=7735255",
+    "location": "United Kingdom",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7440363&gh_jid=7440363",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
@@ -650,6 +652,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-business-analyst-starlink-growth-at-spacex-4369008233",
+    "title": "Business Analyst (Starlink Growth)",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "url": "https://www.linkedin.com/jobs/view/business-analyst-starlink-growth-at-spacex-4369008233",
+    "posted": "2026-04-09",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "greenhouse-7725834",
     "title": "Principal Sales Operations Analyst",
     "company": "Mongodb",
@@ -760,21 +775,6 @@
     "company": "Brex",
     "location": "San Francisco, California, United States",
     "url": "https://www.brex.com/careers/8463699002?gh_jid=8463699002",
-    "posted": "2026-04-08",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7892186002",
-    "title": "Senior Data Scientist, Finance ",
-    "company": "Brex",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/7892186002?gh_jid=7892186002",
     "posted": "2026-04-08",
     "source": "Greenhouse",
     "tags": [
@@ -897,6 +897,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-junior-data-scientist-at-brooksource-4396340338",
+    "title": "Junior Data Scientist",
+    "company": "Brooksource",
+    "location": "Columbus, Ohio Metropolitan Area",
+    "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-brooksource-4396340338",
+    "posted": "2026-04-08",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-ai-ml-engineer-at-brain-co-4275844846",
     "title": "AI/ML Engineer",
     "company": "Brain Co.",
@@ -960,19 +973,6 @@
     "description": "",
     "salary": "",
     "h1b": true
-  },
-  {
-    "id": "linkedin-business-analyst-at-ss-c-technologies-4386980000",
-    "title": "Business Analyst",
-    "company": "SS&C Technologies",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-ss-c-technologies-4386980000",
-    "posted": "2026-04-08",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
   },
   {
     "id": "greenhouse-8485352002",
@@ -1176,19 +1176,6 @@
     "description": "",
     "salary": "",
     "h1b": false
-  },
-  {
-    "id": "linkedin-data-scientist-customer-support-analytics-at-etsy-4397396983",
-    "title": "Data Scientist, Customer Support Analytics",
-    "company": "Etsy",
-    "location": "Brooklyn, NY",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-customer-support-analytics-at-etsy-4397396983",
-    "posted": "2026-04-04",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": true
   },
   {
     "id": "greenhouse-5115935008",
