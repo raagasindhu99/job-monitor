@@ -1,5 +1,96 @@
 [
   {
+    "id": "workday-intel-cientist_JR0280624-1",
+    "title": "Data Scientist",
+    "company": "Intel",
+    "location": "Malaysia, Penang",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Data-Scientist_JR0280624-1",
+    "posted": "Posted 30+",
+    "source": "Workday",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "workday-intel-neer--PCS-_JR0278714",
+    "title": "Senior Data Scientist (Quality Systems)",
+    "company": "Intel",
+    "location": "US, Arizona, Phoenix",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/SPTD-Quality-Engineer--PCS-_JR0278714",
+    "posted": "Posted 30+",
+    "source": "Workday",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "workday-intel-L-Engineer_JR0281054",
+    "title": "AI/ML Engineer",
+    "company": "Intel",
+    "location": "Israel, Haifa",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/AI-ML-Engineer_JR0281054",
+    "posted": "Posted 30+",
+    "source": "Workday",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "workday-intel-ns-Analyst_JR0282139",
+    "title": "Sales Operations Analyst",
+    "company": "Intel",
+    "location": "4 Locations",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Sales-Operations-Analyst_JR0282139",
+    "posted": "Posted 23 ",
+    "source": "Workday",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "workday-intel-ss-Analyst_JR0282777",
+    "title": "Intel Foundry Analytics Business Analyst",
+    "company": "Intel",
+    "location": "4 Locations",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Intel-Foundry-Analytics-Business-Analyst_JR0282777",
+    "posted": "Posted 2 D",
+    "source": "Workday",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "workday-intel-ontract-_JR0281791-1",
+    "title": "Revenue & Data Analyst (Contract)",
+    "company": "Intel",
+    "location": "Malaysia, Penang",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Revenue---Data-Analyst--Contract-_JR0281791-1",
+    "posted": "Posted 17 ",
+    "source": "Workday",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "workday-intel-ions-Group_JR0282589",
+    "title": "Machine Learning Engineer Student for AI Solutions Group",
+    "company": "Intel",
+    "location": "Israel, Haifa",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Machine-Learning-Engineer-Student-for-AI-Solutions-Group_JR0282589",
+    "posted": "Posted 11 ",
+    "source": "Workday",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "greenhouse-7493743",
     "title": "Senior People Analyst",
     "company": "Datadog",
@@ -417,21 +508,6 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-5601881",
-    "title": "Data Analyst",
-    "company": "Stripe",
-    "location": "US",
-    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
-    "posted": "2026-04-09",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our miss",
-    "salary": "",
-    "h1b": true
-  },
-  {
     "id": "greenhouse-7584394",
     "title": "Data Science Manager, Product",
     "company": "Asana",
@@ -553,6 +629,19 @@
     "company": "Catalyst Labs",
     "location": "California, United States",
     "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398670363",
+    "posted": "2026-04-09",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-business-analyst-starlink-growth-at-spacex-4369008233",
+    "title": "Business Analyst (Starlink Growth)",
+    "company": "SpaceX",
+    "location": "Hawthorne, CA",
+    "url": "https://www.linkedin.com/jobs/view/business-analyst-starlink-growth-at-spacex-4369008233",
     "posted": "2026-04-09",
     "source": "LinkedIn",
     "tags": [],
@@ -1061,19 +1150,6 @@
     "h1b": false
   },
   {
-    "id": "linkedin-business-analyst-at-fns-inc-4385265212",
-    "title": "Business Analyst",
-    "company": "FNS, Inc.",
-    "location": "Torrance, CA",
-    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-fns-inc-4385265212",
-    "posted": "2026-04-06",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "linkedin-business-analyst-at-empower-4382065637",
     "title": "Business Analyst",
     "company": "Empower",
@@ -1358,6 +1434,21 @@
       ""
     ],
     "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and acceler",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-6282403",
+    "title": "Data Analyst",
+    "company": "Stripe",
+    "location": "Mexico City ",
+    "url": "https://stripe.com/jobs/search?gh_jid=6282403",
+    "posted": "2026-04-01",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
     "salary": "",
     "h1b": true
   },
