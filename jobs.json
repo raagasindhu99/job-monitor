@@ -323,19 +323,6 @@
     "h1b": false
   },
   {
-    "id": "linkedin-early-career-ai-ml-engineer-at-brain-co-4362406858",
-    "title": "Early Career AI/ML Engineer",
-    "company": "Brain Co.",
-    "location": "San Francisco Bay Area",
-    "url": "https://www.linkedin.com/jobs/view/early-career-ai-ml-engineer-at-brain-co-4362406858",
-    "posted": "2026-04-10",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "linkedin-bi-analyst-at-rovia-clinical-research-4400383302",
     "title": "BI Analyst",
     "company": "Rovia Clinical Research",
@@ -708,6 +695,19 @@
     "description": "",
     "salary": "",
     "h1b": true
+  },
+  {
+    "id": "linkedin-ml-engineer-at-catalyst-labs-4398670363",
+    "title": "ML Engineer",
+    "company": "Catalyst Labs",
+    "location": "California, United States",
+    "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398670363",
+    "posted": "2026-04-09",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
   },
   {
     "id": "linkedin-business-analyst-starlink-growth-at-spacex-4369008233",
