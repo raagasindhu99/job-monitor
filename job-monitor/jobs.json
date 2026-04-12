@@ -91,6 +91,19 @@
     "h1b": true
   },
   {
+    "id": "linkedin-data-scientist-at-mercor-4318541884",
+    "title": "Data Scientist",
+    "company": "Mercor",
+    "location": "San Francisco, CA",
+    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-mercor-4318541884",
+    "posted": "2026-04-12",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "greenhouse-7674622003",
     "title": "Marketing Insights Analyst",
     "company": "Fivetran",
@@ -302,19 +315,6 @@
     "company": "Legend Biotech",
     "location": "Raritan, NJ",
     "url": "https://www.linkedin.com/jobs/view/process-data-analyst-at-legend-biotech-4375236652",
-    "posted": "2026-04-10",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-early-career-ai-ml-engineer-at-brain-co-4362406858",
-    "title": "Early Career AI/ML Engineer",
-    "company": "Brain Co.",
-    "location": "San Francisco Bay Area",
-    "url": "https://www.linkedin.com/jobs/view/early-career-ai-ml-engineer-at-brain-co-4362406858",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
@@ -697,6 +697,19 @@
     "h1b": true
   },
   {
+    "id": "linkedin-ml-engineer-at-catalyst-labs-4398670363",
+    "title": "ML Engineer",
+    "company": "Catalyst Labs",
+    "location": "California, United States",
+    "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398670363",
+    "posted": "2026-04-09",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-business-analyst-starlink-growth-at-spacex-4369008233",
     "title": "Business Analyst (Starlink Growth)",
     "company": "SpaceX",
@@ -917,19 +930,6 @@
     "company": "Betterment",
     "location": "New York, NY",
     "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-betterment-4304721728",
-    "posted": "2026-04-08",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-junior-data-scientist-at-brooksource-4396340338",
-    "title": "Junior Data Scientist",
-    "company": "Brooksource",
-    "location": "Columbus, Ohio Metropolitan Area",
-    "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-brooksource-4396340338",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
@@ -1178,12 +1178,12 @@
     "h1b": false
   },
   {
-    "id": "linkedin-business-analyst-at-empower-4382065637",
+    "id": "linkedin-business-analyst-at-fns-inc-4385265212",
     "title": "Business Analyst",
-    "company": "Empower",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-empower-4382065637",
-    "posted": "2026-04-05",
+    "company": "FNS, Inc.",
+    "location": "Torrance, CA",
+    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-fns-inc-4385265212",
+    "posted": "2026-04-06",
     "source": "LinkedIn",
     "tags": [],
     "description": "",
