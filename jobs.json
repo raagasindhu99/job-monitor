@@ -209,6 +209,19 @@
     "h1b": true
   },
   {
+    "id": "linkedin-business-intelligence-analyst-at-academy-bank-4400917457",
+    "title": "Business Intelligence Analyst",
+    "company": "Academy Bank",
+    "location": "Kansas City, MO",
+    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-academy-bank-4400917457",
+    "posted": "2026-04-11",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "greenhouse-7493743",
     "title": "Senior People Analyst",
     "company": "Datadog",
@@ -297,11 +310,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-data-analyst-powerbi-and-dax-at-teksystems-4400374350",
-    "title": "Data Analyst (PowerBI And DAX)",
-    "company": "TEKsystems",
-    "location": "Schaumburg, IL",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-powerbi-and-dax-at-teksystems-4400374350",
+    "id": "linkedin-early-career-ai-ml-engineer-at-brain-co-4362406858",
+    "title": "Early Career AI/ML Engineer",
+    "company": "Brain Co.",
+    "location": "San Francisco Bay Area",
+    "url": "https://www.linkedin.com/jobs/view/early-career-ai-ml-engineer-at-brain-co-4362406858",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
@@ -354,19 +367,6 @@
     "company": "Emerald Resource Group",
     "location": "Broadview Heights, OH",
     "url": "https://www.linkedin.com/jobs/view/junior-business-intelligence-analyst-at-emerald-resource-group-4400208330",
-    "posted": "2026-04-10",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-business-intelligence-analyst-ii-at-the-standard-4397665520",
-    "title": "Business Intelligence Analyst II",
-    "company": "The Standard",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-ii-at-the-standard-4397665520",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
@@ -697,19 +697,6 @@
     "h1b": true
   },
   {
-    "id": "linkedin-ml-engineer-at-catalyst-labs-4398670363",
-    "title": "ML Engineer",
-    "company": "Catalyst Labs",
-    "location": "California, United States",
-    "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398670363",
-    "posted": "2026-04-09",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "linkedin-business-analyst-starlink-growth-at-spacex-4369008233",
     "title": "Business Analyst (Starlink Growth)",
     "company": "SpaceX",
@@ -891,6 +878,19 @@
     "company": "Global Technical Talent, an Inc. 5000 Company",
     "location": "Framingham, MA",
     "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
+    "posted": "2026-04-08",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-data-analyst-at-daice-labs-4398960365",
+    "title": "Data Analyst",
+    "company": "Daice Labs",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-daice-labs-4398960365",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
