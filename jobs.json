@@ -136,17 +136,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-6282403",
+    "id": "greenhouse-5416444",
     "title": "Data Analyst",
     "company": "Stripe",
-    "location": "Mexico City ",
-    "url": "https://stripe.com/jobs/search?gh_jid=6282403",
+    "location": "Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=5416444",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
+    "description": "&lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amoun",
     "salary": "",
     "h1b": true
   },
@@ -391,6 +391,21 @@
     "h1b": true
   },
   {
+    "id": "greenhouse-7809846",
+    "title": "Lead Analytics Engineer",
+    "company": "Oscar",
+    "location": "New York, New York, United States",
+    "url": "http://www.hioscar.com/careers/7809846?gh_jid=7809846",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;Hi, were Oscar. Were hiring a Lead Analytics Engineer to join our Data Team.&lt;/p&gt; &lt;p&gt;Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family.&lt;/p&gt; &l",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-data-scientist-customer-analytics-at-cresta-4364044356",
     "title": "Data Scientist, Customer Analytics",
     "company": "Cresta",
@@ -417,38 +432,25 @@
     "h1b": false
   },
   {
+    "id": "linkedin-business-intelligence-analyst-at-vedder-4387077815",
+    "title": "Business Intelligence Analyst",
+    "company": "Vedder",
+    "location": "Chicago, IL",
+    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-vedder-4387077815",
+    "posted": "2026-04-13",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-junior-business-intelligence-analyst-at-emerald-resource-group-4400208330",
     "title": "Junior Business Intelligence Analyst",
     "company": "Emerald Resource Group",
     "location": "Broadview Heights, OH",
     "url": "https://www.linkedin.com/jobs/view/junior-business-intelligence-analyst-at-emerald-resource-group-4400208330",
     "posted": "2026-04-13",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-business-intelligence-analyst-at-briscent-global-llc-4399676174",
-    "title": "Business Intelligence Analyst",
-    "company": "BriScent Global LLC",
-    "location": "Jersey City, NJ",
-    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-briscent-global-llc-4399676174",
-    "posted": "2026-04-13",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-data-analyst-i-at-cotiviti-4399115137",
-    "title": "Data Analyst I",
-    "company": "Cotiviti",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-cotiviti-4399115137",
-    "posted": "2026-04-12",
     "source": "LinkedIn",
     "tags": [],
     "description": "",
@@ -486,11 +488,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8463703002",
+    "id": "greenhouse-8463702002",
     "title": "Data Analyst II",
     "company": "Brex",
-    "location": "São Paulo, São Paulo, Brazil",
-    "url": "https://www.brex.com/careers/8463703002?gh_jid=8463703002",
+    "location": "New York, New York, United States",
+    "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -531,11 +533,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8430182002",
+    "id": "greenhouse-8430196002",
     "title": "Senior Software Engineer, Product Data Platform",
     "company": "Brex",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/8430182002?gh_jid=8430182002",
+    "location": "Vancouver, British Columbia, Canada",
+    "url": "https://www.brex.com/careers/8430196002?gh_jid=8430196002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -637,6 +639,32 @@
     "company": "Legend Biotech",
     "location": "Raritan, NJ",
     "url": "https://www.linkedin.com/jobs/view/process-data-analyst-at-legend-biotech-4375236652",
+    "posted": "2026-04-10",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-data-analyst-powerbi-and-dax-at-teksystems-4400374350",
+    "title": "Data Analyst (PowerBI And DAX)",
+    "company": "TEKsystems",
+    "location": "Schaumburg, IL",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-powerbi-and-dax-at-teksystems-4400374350",
+    "posted": "2026-04-10",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-early-career-ai-ml-engineer-at-brain-co-4362406858",
+    "title": "Early Career AI/ML Engineer",
+    "company": "Brain Co.",
+    "location": "San Francisco Bay Area",
+    "url": "https://www.linkedin.com/jobs/view/early-career-ai-ml-engineer-at-brain-co-4362406858",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
@@ -924,11 +952,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7304867",
+    "id": "greenhouse-7612064",
     "title": "Staff Data Scientist, Marketing",
     "company": "Asana",
-    "location": "San Francisco",
-    "url": "https://www.asana.com/jobs/apply/7304867?gh_jid=7304867",
+    "location": "New York City",
+    "url": "https://www.asana.com/jobs/apply/7612064?gh_jid=7612064",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
@@ -963,19 +991,6 @@
     "description": "",
     "salary": "",
     "h1b": true
-  },
-  {
-    "id": "linkedin-ml-engineer-at-catalyst-labs-4398670363",
-    "title": "ML Engineer",
-    "company": "Catalyst Labs",
-    "location": "California, United States",
-    "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398670363",
-    "posted": "2026-04-09",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
   },
   {
     "id": "linkedin-business-analyst-starlink-growth-at-spacex-4369008233",
@@ -1126,11 +1141,11 @@
     "h1b": true
   },
   {
-    "id": "linkedin-data-analyst-at-ss-c-technologies-4385100313",
-    "title": "Data Analyst",
-    "company": "SS&C Technologies",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ss-c-technologies-4385100313",
+    "id": "linkedin-junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
+    "title": "Junior Data Analyst",
+    "company": "Global Technical Talent, an Inc. 5000 Company",
+    "location": "Framingham, MA",
+    "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
@@ -1139,11 +1154,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
-    "title": "Junior Data Analyst",
-    "company": "Global Technical Talent, an Inc. 5000 Company",
-    "location": "Framingham, MA",
-    "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
+    "id": "linkedin-data-analyst-at-ss-c-technologies-4385100313",
+    "title": "Data Analyst",
+    "company": "SS&C Technologies",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ss-c-technologies-4385100313",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
@@ -1648,11 +1663,11 @@
     "h1b": false
   },
   {
-    "id": "greenhouse-7374160",
+    "id": "greenhouse-7374162",
     "title": "Senior Data Scientist, Advanced Risk Modeling",
     "company": "Oscar",
-    "location": "Los Angeles, California, United States",
-    "url": "http://www.hioscar.com/careers/7374160?gh_jid=7374160",
+    "location": "Tempe, Arizona, United States",
+    "url": "http://www.hioscar.com/careers/7374162?gh_jid=7374162",
     "posted": "2026-03-31",
     "source": "Greenhouse",
     "tags": [
@@ -1663,11 +1678,11 @@
     "h1b": false
   },
   {
-    "id": "greenhouse-7592202",
+    "id": "greenhouse-7592191",
     "title": "Senior Data Scientist, Data & Member Behavior",
     "company": "Oscar",
-    "location": "Tempe, Arizona, United States",
-    "url": "http://www.hioscar.com/careers/7592202?gh_jid=7592202",
+    "location": "Los Angeles, California, United States",
+    "url": "http://www.hioscar.com/careers/7592191?gh_jid=7592191",
     "posted": "2026-03-31",
     "source": "Greenhouse",
     "tags": [
@@ -2073,28 +2088,15 @@
     "h1b": true
   },
   {
-    "id": "himalayas-Business Analyst, Payments and",
-    "title": "Business Analyst, Payments and Fraud",
-    "company": "Spokeo",
-    "location": "United States",
+    "id": "himalayas-Project Manager - Business Ana",
+    "title": "Project Manager - Business Analyst",
+    "company": "Hyred",
+    "location": "Malaysia",
     "url": "",
     "posted": "",
     "source": "Himalayas",
     "tags": [],
-    "description": "About Spokeo Spokeo is a people intelligence platform that helps over 18 million monthly visitors reconnect with friends, reunite with families, and build trust in new relationships. Thousands of companies also trust Spokeo ’s 60 billion public records to improve customer research, help verify information, and prevent fraud. Founded in 2006, Spokeo has built a dedicated, remote-first team with an ",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "himalayas-Power BI AnalystPyramid Global",
-    "title": "Power BI Analyst",
-    "company": "Pyramid Global Technologies",
-    "location": "United States",
-    "url": "",
-    "posted": "",
-    "source": "Himalayas",
-    "tags": [],
-    "description": "Job Description of ﻿Power BI Analyst in Melbourne: Power BI Data Visualization Expert We are looking for Power BI Data Visualization expert with 3-5 years of experience who can fulfill the following criteria. He/She will be responsible for END TO END Visualization solutions development and projects delivery across multiple clients. Also would be supporting in consulting engagement and should be ab",
+    "description": "About the client Founded in 2009, our client has been providing corporate compliance services, accounting, tax, and digital consultancy services across Asia. They have been the business partner of over 2,000 businesses, ranging from startups, SMEs, MNCs, to listed companies worldwide. Key Responsibilities: Responsible for project management and business analysis for project implementation. Manage ",
     "salary": "",
     "h1b": false
   }
