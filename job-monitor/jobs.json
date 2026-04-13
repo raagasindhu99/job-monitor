@@ -136,17 +136,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-5416444",
+    "id": "greenhouse-5601881",
     "title": "Data Analyst",
     "company": "Stripe",
-    "location": "Canada",
-    "url": "https://stripe.com/jobs/search?gh_jid=5416444",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amoun",
+    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our miss",
     "salary": "",
     "h1b": true
   },
@@ -660,19 +660,6 @@
     "h1b": false
   },
   {
-    "id": "linkedin-early-career-ai-ml-engineer-at-brain-co-4362406858",
-    "title": "Early Career AI/ML Engineer",
-    "company": "Brain Co.",
-    "location": "San Francisco Bay Area",
-    "url": "https://www.linkedin.com/jobs/view/early-career-ai-ml-engineer-at-brain-co-4362406858",
-    "posted": "2026-04-10",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "linkedin-bi-analyst-at-rovia-clinical-research-4400383302",
     "title": "BI Analyst",
     "company": "Rovia Clinical Research",
@@ -993,6 +980,19 @@
     "h1b": true
   },
   {
+    "id": "linkedin-ml-engineer-at-catalyst-labs-4398670363",
+    "title": "ML Engineer",
+    "company": "Catalyst Labs",
+    "location": "California, United States",
+    "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398670363",
+    "posted": "2026-04-09",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-business-analyst-starlink-growth-at-spacex-4369008233",
     "title": "Business Analyst (Starlink Growth)",
     "company": "SpaceX",
@@ -1206,6 +1206,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-junior-data-scientist-at-brooksource-4396340338",
+    "title": "Junior Data Scientist",
+    "company": "Brooksource",
+    "location": "Columbus, Ohio Metropolitan Area",
+    "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-brooksource-4396340338",
+    "posted": "2026-04-08",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-ai-ml-engineer-at-brain-co-4275844846",
     "title": "AI/ML Engineer",
     "company": "Brain Co.",
@@ -1403,19 +1416,6 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;Join us in building the future of finance.&lt;/h2&gt; &lt;p&gt;Our mission is to democratize finance for all. &lt;a href=&quot;https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048&quot; target=&quot;_blank&quot;&gt;An estimated $124 trillion of assets&lt;/a&gt; will be inherited by younger ",
     "salary": "",
     "h1b": true
-  },
-  {
-    "id": "linkedin-machine-learning-engineer-i-at-handshake-4398057615",
-    "title": "Machine Learning Engineer I",
-    "company": "Handshake",
-    "location": "San Francisco, CA",
-    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-handshake-4398057615",
-    "posted": "2026-04-06",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
   },
   {
     "id": "greenhouse-5115935008",
@@ -1648,11 +1648,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7594416",
+    "id": "greenhouse-7594414",
     "title": "Data Scientist II",
     "company": "Oscar",
-    "location": "Tempe, Arizona, United States",
-    "url": "http://www.hioscar.com/careers/7594416?gh_jid=7594416",
+    "location": "Los Angeles, California, United States",
+    "url": "http://www.hioscar.com/careers/7594414?gh_jid=7594414",
     "posted": "2026-03-31",
     "source": "Greenhouse",
     "tags": [
@@ -1663,32 +1663,17 @@
     "h1b": false
   },
   {
-    "id": "greenhouse-7374162",
+    "id": "greenhouse-7374160",
     "title": "Senior Data Scientist, Advanced Risk Modeling",
     "company": "Oscar",
-    "location": "Tempe, Arizona, United States",
-    "url": "http://www.hioscar.com/careers/7374162?gh_jid=7374162",
+    "location": "Los Angeles, California, United States",
+    "url": "http://www.hioscar.com/careers/7374160?gh_jid=7374160",
     "posted": "2026-03-31",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
     "description": "&lt;p&gt;Hi, were Oscar. Were hiring a Senior Data Scientist to join our Data Team.&lt;/p&gt; &lt;p&gt;Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family.&lt;/p&gt; &lt;",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "greenhouse-7592191",
-    "title": "Senior Data Scientist, Data & Member Behavior",
-    "company": "Oscar",
-    "location": "Los Angeles, California, United States",
-    "url": "http://www.hioscar.com/careers/7592191?gh_jid=7592191",
-    "posted": "2026-03-31",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;Hi, were Oscar. Were hiring a Senior Data Scientist to join our Engineering team.&lt;/p&gt; &lt;p&gt;Oscar is the first health insurance company built around a full stack technology platform and a focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family.&lt;/p&gt; &lt;h3&g",
     "salary": "",
     "h1b": false
   },
