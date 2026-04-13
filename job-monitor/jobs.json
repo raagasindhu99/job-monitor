@@ -196,6 +196,19 @@
     "h1b": true
   },
   {
+    "id": "linkedin-analytics-reporting-analyst-at-the-walt-disney-company-4388523669",
+    "title": "Analytics & Reporting Analyst",
+    "company": "The Walt Disney Company",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/analytics-reporting-analyst-at-the-walt-disney-company-4388523669",
+    "posted": "2026-04-11",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "linkedin-business-intelligence-analyst-at-academy-bank-4400917457",
     "title": "Business Intelligence Analyst",
     "company": "Academy Bank",
@@ -207,19 +220,6 @@
     "description": "",
     "salary": "",
     "h1b": false
-  },
-  {
-    "id": "linkedin-marketing-analytics-data-analyst-adp-at-veeva-systems-4377291951",
-    "title": "Marketing Analytics - Data Analyst - ADP",
-    "company": "Veeva Systems",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/marketing-analytics-data-analyst-adp-at-veeva-systems-4377291951",
-    "posted": "2026-04-11",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": true
   },
   {
     "id": "greenhouse-7493743",
@@ -297,24 +297,11 @@
     "h1b": true
   },
   {
-    "id": "linkedin-data-reporting-analyst-at-holmes-murphy-4376911729",
-    "title": "Data & Reporting Analyst",
-    "company": "Holmes Murphy",
-    "location": "Waukee, IA",
-    "url": "https://www.linkedin.com/jobs/view/data-reporting-analyst-at-holmes-murphy-4376911729",
-    "posted": "2026-04-10",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-early-career-ai-ml-engineer-at-brain-co-4362406858",
-    "title": "Early Career AI/ML Engineer",
-    "company": "Brain Co.",
-    "location": "San Francisco Bay Area",
-    "url": "https://www.linkedin.com/jobs/view/early-career-ai-ml-engineer-at-brain-co-4362406858",
+    "id": "linkedin-process-data-analyst-at-legend-biotech-4375236652",
+    "title": "Process Data Analyst",
+    "company": "Legend Biotech",
+    "location": "Raritan, NJ",
+    "url": "https://www.linkedin.com/jobs/view/process-data-analyst-at-legend-biotech-4375236652",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
@@ -860,24 +847,11 @@
     "h1b": true
   },
   {
-    "id": "linkedin-data-analyst-at-acosta-group-4384796084",
-    "title": "Data Analyst",
-    "company": "Acosta Group",
-    "location": "St Louis, MO",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-acosta-group-4384796084",
-    "posted": "2026-04-08",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-data-analyst-at-ss-c-technologies-4384890721",
+    "id": "linkedin-data-analyst-at-ss-c-technologies-4385100313",
     "title": "Data Analyst",
     "company": "SS&C Technologies",
-    "location": "Jacksonville, FL",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ss-c-technologies-4384890721",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ss-c-technologies-4385100313",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
@@ -886,11 +860,24 @@
     "h1b": false
   },
   {
-    "id": "linkedin-data-analyst-on-site-at-intertek-4375759511",
-    "title": "Data Analyst - On-site",
-    "company": "Intertek",
-    "location": "Kentwood, MI",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-on-site-at-intertek-4375759511",
+    "id": "linkedin-junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
+    "title": "Junior Data Analyst",
+    "company": "Global Technical Talent, an Inc. 5000 Company",
+    "location": "Framingham, MA",
+    "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
+    "posted": "2026-04-08",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-data-analyst-at-daice-labs-4398960365",
+    "title": "Data Analyst",
+    "company": "Daice Labs",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-daice-labs-4398960365",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
@@ -1003,11 +990,50 @@
     "h1b": true
   },
   {
+    "id": "linkedin-entry-level-data-analyst-at-emonics-llc-4395458243",
+    "title": "Entry Level Data Analyst",
+    "company": "Emonics LLC",
+    "location": "Houston, TX",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-emonics-llc-4395458243",
+    "posted": "2026-04-07",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-data-analyst-at-webologix-ltd-inc-4398543541",
     "title": "Data Analyst",
     "company": "Webologix Ltd/ INC",
     "location": "United States",
     "url": "https://www.linkedin.com/jobs/view/data-analyst-at-webologix-ltd-inc-4398543541",
+    "posted": "2026-04-07",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-data-analyst-at-ima-financial-group-inc-4398267799",
+    "title": "Data Analyst",
+    "company": "IMA Financial Group, Inc.",
+    "location": "Salt Lake City, UT",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ima-financial-group-inc-4398267799",
+    "posted": "2026-04-07",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-data-analyst-at-hirepower-staffing-solution-4398262716",
+    "title": "Data Analyst",
+    "company": "HirePower Staffing Solution",
+    "location": "Fullerton, CA",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirepower-staffing-solution-4398262716",
     "posted": "2026-04-07",
     "source": "LinkedIn",
     "tags": [],
@@ -1113,11 +1139,11 @@
     "h1b": true
   },
   {
-    "id": "linkedin-data-analyst-at-korn-ferry-4398022064",
+    "id": "linkedin-data-analyst-at-m-science-4394480305",
     "title": "Data Analyst",
-    "company": "Korn Ferry",
-    "location": "Los Angeles County, CA",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-korn-ferry-4398022064",
+    "company": "M Science",
+    "location": "New York City Metropolitan Area",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-m-science-4394480305",
     "posted": "2026-04-06",
     "source": "LinkedIn",
     "tags": [],
@@ -1126,11 +1152,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-inventory-data-analyst-at-orgill-4398074961",
-    "title": "Inventory Data Analyst",
-    "company": "Orgill",
-    "location": "Collierville, TN",
-    "url": "https://www.linkedin.com/jobs/view/inventory-data-analyst-at-orgill-4398074961",
+    "id": "linkedin-ai-ml-engineer-at-hackajob-4382830392",
+    "title": "AI/ML Engineer",
+    "company": "hackajob",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-hackajob-4382830392",
     "posted": "2026-04-06",
     "source": "LinkedIn",
     "tags": [],
@@ -2058,5 +2084,31 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether youre brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and ",
     "salary": "",
     "h1b": true
+  },
+  {
+    "id": "himalayas-Business Analyst, Payments and",
+    "title": "Business Analyst, Payments and Fraud",
+    "company": "Spokeo",
+    "location": "United States",
+    "url": "",
+    "posted": "",
+    "source": "Himalayas",
+    "tags": [],
+    "description": "About Spokeo Spokeo is a people intelligence platform that helps over 18 million monthly visitors reconnect with friends, reunite with families, and build trust in new relationships. Thousands of companies also trust Spokeo ’s 60 billion public records to improve customer research, help verify information, and prevent fraud. Founded in 2006, Spokeo has built a dedicated, remote-first team with an ",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "himalayas-Power BI AnalystPyramid Global",
+    "title": "Power BI Analyst",
+    "company": "Pyramid Global Technologies",
+    "location": "United States",
+    "url": "",
+    "posted": "",
+    "source": "Himalayas",
+    "tags": [],
+    "description": "Job Description of ﻿Power BI Analyst in Melbourne: Power BI Data Visualization Expert We are looking for Power BI Data Visualization expert with 3-5 years of experience who can fulfill the following criteria. He/She will be responsible for END TO END Visualization solutions development and projects delivery across multiple clients. Also would be supporting in consulting engagement and should be ab",
+    "salary": "",
+    "h1b": false
   }
 ]
