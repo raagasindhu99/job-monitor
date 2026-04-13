@@ -121,6 +121,19 @@
     "h1b": true
   },
   {
+    "id": "linkedin-junior-data-scientist-at-tech-consulting-4399606656",
+    "title": "Junior Data Scientist",
+    "company": "Tech Consulting",
+    "location": "Florida, United States",
+    "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-tech-consulting-4399606656",
+    "posted": "2026-04-13",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "greenhouse-7674622003",
     "title": "Marketing Insights Analyst",
     "company": "Fivetran",
@@ -422,17 +435,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7641390002",
+    "id": "greenhouse-7734812002",
     "title": "Senior Manager, Infrastructure Data Science",
     "company": "Databricks",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p data-renderer-start-pos=&quot;1648&quot;&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges ",
+    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges related to capacity planning, performance optimization, reliability",
     "salary": "",
     "h1b": true
   },
@@ -632,11 +645,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7612064",
+    "id": "greenhouse-7304867",
     "title": "Staff Data Scientist, Marketing",
     "company": "Asana",
-    "location": "New York City",
-    "url": "https://www.asana.com/jobs/apply/7612064?gh_jid=7612064",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/7304867?gh_jid=7304867",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
@@ -901,19 +914,6 @@
     "h1b": false
   },
   {
-    "id": "linkedin-junior-data-scientist-at-brooksource-4396340338",
-    "title": "Junior Data Scientist",
-    "company": "Brooksource",
-    "location": "Columbus, Ohio Metropolitan Area",
-    "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-brooksource-4396340338",
-    "posted": "2026-04-08",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "linkedin-ai-ml-engineer-at-brain-co-4275844846",
     "title": "AI/ML Engineer",
     "company": "Brain Co.",
@@ -1005,11 +1005,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-data-analyst-at-ima-financial-group-inc-4398267799",
+    "id": "linkedin-data-analyst-at-webologix-ltd-inc-4398543541",
     "title": "Data Analyst",
-    "company": "IMA Financial Group, Inc.",
-    "location": "Salt Lake City, UT",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ima-financial-group-inc-4398267799",
+    "company": "Webologix Ltd/ INC",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-webologix-ltd-inc-4398543541",
     "posted": "2026-04-07",
     "source": "LinkedIn",
     "tags": [],
@@ -1018,11 +1018,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-data-analyst-at-webologix-ltd-inc-4398543541",
+    "id": "linkedin-data-analyst-at-ima-financial-group-inc-4398267799",
     "title": "Data Analyst",
-    "company": "Webologix Ltd/ INC",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-webologix-ltd-inc-4398543541",
+    "company": "IMA Financial Group, Inc.",
+    "location": "Salt Lake City, UT",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ima-financial-group-inc-4398267799",
     "posted": "2026-04-07",
     "source": "LinkedIn",
     "tags": [],
