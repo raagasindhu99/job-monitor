@@ -1,5 +1,31 @@
 [
   {
+    "id": "workday-intel-ta-Analyst_JR0282358",
+    "title": "Foundry New Product Data Analyst",
+    "company": "Intel",
+    "location": "4 Locations",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-New-Product-Data-Analyst_JR0282358",
+    "posted": "Posted Tod",
+    "source": "Workday",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "workday-intel-Engineer_JR0282890-1",
+    "title": "Foundry Automation ML Engineer",
+    "company": "Intel",
+    "location": "US, Oregon, Hillsboro",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Foundry-Automation-ML-Engineer_JR0282890-1",
+    "posted": "Posted Tod",
+    "source": "Workday",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "workday-intel-ss-Analyst_JR0282777",
     "title": "Intel Foundry Analytics Business Analyst",
     "company": "Intel",
@@ -136,17 +162,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-5601881",
+    "id": "greenhouse-5416444",
     "title": "Data Analyst",
     "company": "Stripe",
-    "location": "US",
-    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
+    "location": "Canada",
+    "url": "https://stripe.com/jobs/search?gh_jid=5416444",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our miss",
+    "description": "&lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amoun",
     "salary": "",
     "h1b": true
   },
@@ -166,17 +192,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-5895430",
+    "id": "greenhouse-7809414",
     "title": "Data Scientist",
     "company": "Stripe",
-    "location": "Toronto",
-    "url": "https://stripe.com/jobs/search?gh_jid=5895430",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=7809414",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line g",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and acceler",
     "salary": "",
     "h1b": true
   },
@@ -316,11 +342,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7746033",
+    "id": "greenhouse-7376835",
     "title": "Software Engineer, Machine Learning Infrastructure",
     "company": "Stripe",
-    "location": "Seattle, San Francisco",
-    "url": "https://stripe.com/jobs/search?gh_jid=7746033",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7376835",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
@@ -376,6 +402,81 @@
     "h1b": true
   },
   {
+    "id": "greenhouse-7584394",
+    "title": "Data Science Manager, Product",
+    "company": "Asana",
+    "location": "New York City",
+    "url": "https://www.asana.com/jobs/apply/7584394?gh_jid=7584394",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;The Data Science team at Asana is pivotal in fulfilling our mission by fostering a data-driven approach in shaping both our product and business strategies. In your role on the Product Data Science team, you will be a key player in using data and scientific techniques to inform Asana’s product strategy and make product decisions. You will work closely with Engineering, Product, and Design",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7657532",
+    "title": "People Operations Analyst",
+    "company": "Asana",
+    "location": "Vancouver, BC",
+    "url": "https://www.asana.com/jobs/apply/7657532?gh_jid=7657532",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;The People Team is a global team responsible for helping Asana scale with clarity, focus, and impact. We partner closely with leaders across the company to enable performance, develop talent, and build systems that support strong execution and a great employee experience. Our work spans talent and performance management, rewards, employee relations, people partnerships, and people analyti",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-6352958",
+    "title": "Senior Product Data Scientist (Analyst)",
+    "company": "Asana",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/6352958?gh_jid=6352958",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Asanas &lt;strong&gt;Data Science&lt;/strong&gt; team helps us fulfill our mission by informing strategy, defining success metrics, and identifying new ways to deliver user value. Data scientists are at the crux of deepening our understanding of the customers and driving more business outcomes by leveraging experimen",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7555480",
+    "title": "Staff Data Scientist",
+    "company": "Asana",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/7555480?gh_jid=7555480",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;Were looking for a Staff Data Scientist to help define Asanas growth strategy as users increasingly discover and adopt software through LLM interfaces like ChatGPT, Claude, and Gemini. With millions of knowledge workers now starting their workday in conversational AI tools, were at an inflection point in how productivity software reaches users. Youll drive Asanas acquisition playbook for ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7612064",
+    "title": "Staff Data Scientist, Marketing",
+    "company": "Asana",
+    "location": "New York City",
+    "url": "https://www.asana.com/jobs/apply/7612064?gh_jid=7612064",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;The Data Science team at Asana is pivotal in fulfilling our mission by fostering a data-driven approach in shaping both our product and business strategies. In your role on the Marketing Data Science team, you will be the deepest technical expert responsible for using data and scientific techniques to design and build scalable, state-of-the-art solutions to enhance Asana’s marketing effec",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "greenhouse-7799902",
     "title": "AML Analyst",
     "company": "Robinhood",
@@ -424,6 +525,19 @@
     "company": "Tech Consulting",
     "location": "Florida, United States",
     "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-tech-consulting-4399606656",
+    "posted": "2026-04-13",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-business-intelligence-analyst-at-perkspot-4400000894",
+    "title": "Business Intelligence Analyst",
+    "company": "PerkSpot",
+    "location": "Illinois, United States",
+    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-perkspot-4400000894",
     "posted": "2026-04-13",
     "source": "LinkedIn",
     "tags": [],
@@ -561,19 +675,6 @@
     "h1b": true
   },
   {
-    "id": "linkedin-business-intelligence-analyst-at-academy-bank-4400917457",
-    "title": "Business Intelligence Analyst",
-    "company": "Academy Bank",
-    "location": "Kansas City, MO",
-    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-academy-bank-4400917457",
-    "posted": "2026-04-11",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "greenhouse-7493743",
     "title": "Senior People Analyst",
     "company": "Datadog",
@@ -699,6 +800,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-business-analyst-at-esri-4400635283",
+    "title": "Business Analyst",
+    "company": "Esri",
+    "location": "Redlands, CA",
+    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-esri-4400635283",
+    "posted": "2026-04-10",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "greenhouse-8456277002",
     "title": "Principal Data Scientist",
     "company": "Databricks",
@@ -729,17 +843,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7641390002",
+    "id": "greenhouse-7734812002",
     "title": "Senior Manager, Infrastructure Data Science",
     "company": "Databricks",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p data-renderer-start-pos=&quot;1648&quot;&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges ",
+    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges related to capacity planning, performance optimization, reliability",
     "salary": "",
     "h1b": true
   },
@@ -864,92 +978,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7440363",
+    "id": "greenhouse-7735254",
     "title": "Principal Java Engineer II - Machine Learning - Elasticsearch",
     "company": "Elastic",
-    "location": "United Kingdom",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7440363&gh_jid=7440363",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelera",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7584394",
-    "title": "Data Science Manager, Product",
-    "company": "Asana",
-    "location": "New York City",
-    "url": "https://www.asana.com/jobs/apply/7584394?gh_jid=7584394",
-    "posted": "2026-04-09",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;The Data Science team at Asana is pivotal in fulfilling our mission by fostering a data-driven approach in shaping both our product and business strategies. In your role on the Product Data Science team, you will be a key player in using data and scientific techniques to inform Asana’s product strategy and make product decisions. You will work closely with Engineering, Product, and Design",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7657532",
-    "title": "People Operations Analyst",
-    "company": "Asana",
-    "location": "Vancouver, BC",
-    "url": "https://www.asana.com/jobs/apply/7657532?gh_jid=7657532",
-    "posted": "2026-04-09",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;The People Team is a global team responsible for helping Asana scale with clarity, focus, and impact. We partner closely with leaders across the company to enable performance, develop talent, and build systems that support strong execution and a great employee experience. Our work spans talent and performance management, rewards, employee relations, people partnerships, and people analyti",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-6352958",
-    "title": "Senior Product Data Scientist (Analyst)",
-    "company": "Asana",
-    "location": "Warsaw",
-    "url": "https://www.asana.com/jobs/apply/6352958?gh_jid=6352958",
-    "posted": "2026-04-09",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;Asanas &lt;strong&gt;Data Science&lt;/strong&gt; team helps us fulfill our mission by informing strategy, defining success metrics, and identifying new ways to deliver user value. Data scientists are at the crux of deepening our understanding of the customers and driving more business outcomes by leveraging experimen",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7555480",
-    "title": "Staff Data Scientist",
-    "company": "Asana",
-    "location": "San Francisco",
-    "url": "https://www.asana.com/jobs/apply/7555480?gh_jid=7555480",
-    "posted": "2026-04-09",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;Were looking for a Staff Data Scientist to help define Asanas growth strategy as users increasingly discover and adopt software through LLM interfaces like ChatGPT, Claude, and Gemini. With millions of knowledge workers now starting their workday in conversational AI tools, were at an inflection point in how productivity software reaches users. Youll drive Asanas acquisition playbook for ",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7612064",
-    "title": "Staff Data Scientist, Marketing",
-    "company": "Asana",
-    "location": "New York City",
-    "url": "https://www.asana.com/jobs/apply/7612064?gh_jid=7612064",
-    "posted": "2026-04-09",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;The Data Science team at Asana is pivotal in fulfilling our mission by fostering a data-driven approach in shaping both our product and business strategies. In your role on the Marketing Data Science team, you will be the deepest technical expert responsible for using data and scientific techniques to design and build scalable, state-of-the-art solutions to enhance Asana’s marketing effec",
     "salary": "",
     "h1b": true
   },
@@ -1141,11 +1180,11 @@
     "h1b": true
   },
   {
-    "id": "linkedin-junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
-    "title": "Junior Data Analyst",
-    "company": "Global Technical Talent, an Inc. 5000 Company",
-    "location": "Framingham, MA",
-    "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
+    "id": "linkedin-data-analyst-at-ss-c-technologies-4385100313",
+    "title": "Data Analyst",
+    "company": "SS&C Technologies",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ss-c-technologies-4385100313",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
@@ -1154,11 +1193,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-data-analyst-at-ss-c-technologies-4385100313",
-    "title": "Data Analyst",
-    "company": "SS&C Technologies",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ss-c-technologies-4385100313",
+    "id": "linkedin-junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
+    "title": "Junior Data Analyst",
+    "company": "Global Technical Talent, an Inc. 5000 Company",
+    "location": "Framingham, MA",
+    "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
@@ -1663,11 +1702,11 @@
     "h1b": false
   },
   {
-    "id": "greenhouse-7374160",
+    "id": "greenhouse-7374162",
     "title": "Senior Data Scientist, Advanced Risk Modeling",
     "company": "Oscar",
-    "location": "Los Angeles, California, United States",
-    "url": "http://www.hioscar.com/careers/7374160?gh_jid=7374160",
+    "location": "Tempe, Arizona, United States",
+    "url": "http://www.hioscar.com/careers/7374162?gh_jid=7374162",
     "posted": "2026-03-31",
     "source": "Greenhouse",
     "tags": [
