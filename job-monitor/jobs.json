@@ -1,18 +1,5 @@
 [
   {
-    "id": "workday-intel-ta-Analyst_JR0282358",
-    "title": "Foundry New Product Data Analyst",
-    "company": "Intel",
-    "location": "4 Locations",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-New-Product-Data-Analyst_JR0282358",
-    "posted": "Posted Yes",
-    "source": "Workday",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": true
-  },
-  {
     "id": "workday-intel-Engineer_JR0282890-1",
     "title": "Foundry Automation ML Engineer",
     "company": "Intel",
@@ -104,21 +91,6 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-5601879",
-    "title": "Data Scientist",
-    "company": "Stripe",
-    "location": "N/A",
-    "url": "https://stripe.com/jobs/search?gh_jid=5601879",
-    "posted": "2026-04-14",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our miss",
-    "salary": "",
-    "h1b": true
-  },
-  {
     "id": "greenhouse-7795191",
     "title": "Monetization Operations Analyst",
     "company": "Stripe",
@@ -134,6 +106,62 @@
     "h1b": true
   },
   {
+    "id": "greenhouse-7430296",
+    "title": "Risk Operations Analyst, Financial Crimes Programs",
+    "company": "Stripe",
+    "location": "Remote, US",
+    "url": "https://stripe.com/jobs/search?gh_jid=7430296",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7813157",
+    "title": "Senior Staff Machine Learning Scientist, Assets",
+    "company": "Webflow",
+    "location": "U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/7813157",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;At Webflow, we’re building the world’s leading AI-native Digital Experience Platform, and we’re doing it as a remote-first company built on trust, transparency, and a whole lot of creativity. This work takes grit, because we move fast, without ever sacrificing craft or quality. Our mission is to bring development superpowers to everyone. From entrepreneurs launching their first idea to gl",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-data-analyst-at-emonics-llc-4400784904",
+    "title": "Data Analyst",
+    "company": "Emonics LLC",
+    "location": "San Francisco, CA",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-emonics-llc-4400784904",
+    "posted": "2026-04-14",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-junior-analytics-engineer-at-mayne-pharma-4378874352",
+    "title": "Junior Analytics Engineer",
+    "company": "Mayne Pharma",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/junior-analytics-engineer-at-mayne-pharma-4378874352",
+    "posted": "2026-04-14",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-analytics-engineer-power-bi-specialist-at-persepta-4400761923",
     "title": "Analytics Engineer - Power BI Specialist",
     "company": "Persepta",
@@ -147,11 +175,24 @@
     "h1b": false
   },
   {
-    "id": "linkedin-junior-data-scientist-at-tech-consulting-4400751213",
-    "title": "Junior Data Scientist",
-    "company": "Tech Consulting",
-    "location": "Missouri, United States",
-    "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-tech-consulting-4400751213",
+    "id": "linkedin-data-scientist-at-octus-4401112146",
+    "title": "Data Scientist",
+    "company": "Octus",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-octus-4401112146",
+    "posted": "2026-04-14",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-business-analyst-at-st-louis-blues-4399576928",
+    "title": "Business Analyst",
+    "company": "St. Louis Blues",
+    "location": "St Louis, MO",
+    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-st-louis-blues-4399576928",
     "posted": "2026-04-14",
     "source": "LinkedIn",
     "tags": [],
@@ -231,6 +272,21 @@
       ""
     ],
     "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-5895430",
+    "title": "Data Scientist",
+    "company": "Stripe",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=5895430",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line g",
     "salary": "",
     "h1b": true
   },
@@ -385,11 +441,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7376835",
+    "id": "greenhouse-7746033",
     "title": "Software Engineer, Machine Learning Infrastructure",
     "company": "Stripe",
-    "location": "N/A",
-    "url": "https://stripe.com/jobs/search?gh_jid=7376835",
+    "location": "Seattle, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=7746033",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
@@ -711,19 +767,6 @@
     "h1b": false
   },
   {
-    "id": "linkedin-data-analyst-scientist-remote-at-why-hiring-4398687294",
-    "title": "Data Analyst/Scientist (Remote)",
-    "company": "Why Hiring",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-scientist-remote-at-why-hiring-4398687294",
-    "posted": "2026-04-13",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "linkedin-machine-learning-engineer-at-skild-ai-4299098257",
     "title": "Machine Learning Engineer",
     "company": "Skild AI",
@@ -781,6 +824,19 @@
     "company": "Covr Financial Technologies",
     "location": "New York, NY",
     "url": "https://www.linkedin.com/jobs/view/product-specialist-business-analyst-at-covr-financial-technologies-4401509986",
+    "posted": "2026-04-13",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-business-analyst-life-sciences-strategy-nyc-global-career-launchpad-at-lsc-lifesciences-consultants-4401093635",
+    "title": "Business Analyst, Life Sciences Strategy (NYC) Global Career Launchpad",
+    "company": "LSC - LifeSciences Consultants",
+    "location": "New York, United States",
+    "url": "https://www.linkedin.com/jobs/view/business-analyst-life-sciences-strategy-nyc-global-career-launchpad-at-lsc-lifesciences-consultants-4401093635",
     "posted": "2026-04-13",
     "source": "LinkedIn",
     "tags": [],
@@ -849,11 +905,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8485388002",
+    "id": "greenhouse-8485385002",
     "title": "Senior Revenue Operations Analyst",
     "company": "Brex",
-    "location": "Salt Lake City, Utah, United States",
-    "url": "https://www.brex.com/careers/8485388002?gh_jid=8485388002",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8485385002?gh_jid=8485385002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -864,11 +920,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8430197002",
+    "id": "greenhouse-8430182002",
     "title": "Senior Software Engineer, Product Data Platform",
     "company": "Brex",
-    "location": "Seattle, Washington, United States",
-    "url": "https://www.brex.com/careers/8430197002?gh_jid=8430197002",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8430182002?gh_jid=8430182002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -903,21 +959,6 @@
     "description": "",
     "salary": "",
     "h1b": false
-  },
-  {
-    "id": "greenhouse-7493743",
-    "title": "Senior People Analyst",
-    "company": "Datadog",
-    "location": "New York, New York, USA",
-    "url": "https://careers.datadoghq.com/detail/7493743/?gh_jid=7493743",
-    "posted": "2026-04-10",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;The People Analytics Team at Datadog uses data to help our growing organization make better people decisions. In this role, you’ll partner with People and business leadership to deliver analyses, dashboards, and insights that shape how we hire, develop, retain, and support Datadogs across the world.&nbsp;&lt;/p&gt; &lt;p&gt;&lt;em&gt;At Datadog, we place value in our office culture—the re",
-    "salary": "",
-    "h1b": true
   },
   {
     "id": "greenhouse-5184594008",
@@ -976,6 +1017,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-applied-scientist-at-zillow-4377897995",
+    "title": "Applied Scientist",
+    "company": "Zillow",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/applied-scientist-at-zillow-4377897995",
+    "posted": "2026-04-10",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "linkedin-early-career-ai-ml-engineer-at-brain-co-4362406858",
     "title": "Early Career AI/ML Engineer",
     "company": "Brain Co.",
@@ -1028,6 +1082,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-technical-business-analyst-at-constellation-inc-4399035511",
+    "title": "Technical Business Analyst",
+    "company": "Constellation Inc",
+    "location": "Washington, DC",
+    "url": "https://www.linkedin.com/jobs/view/technical-business-analyst-at-constellation-inc-4399035511",
+    "posted": "2026-04-10",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "greenhouse-8456277002",
     "title": "Principal Data Scientist",
     "company": "Databricks",
@@ -1058,17 +1125,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7641390002",
+    "id": "greenhouse-7734812002",
     "title": "Senior Manager, Infrastructure Data Science",
     "company": "Databricks",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p data-renderer-start-pos=&quot;1648&quot;&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges ",
+    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges related to capacity planning, performance optimization, reliability",
     "salary": "",
     "h1b": true
   },
@@ -1193,11 +1260,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7735254",
+    "id": "greenhouse-7735255",
     "title": "Principal Java Engineer II - Machine Learning - Elasticsearch",
     "company": "Elastic",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254",
+    "location": "Canada",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7735255&gh_jid=7735255",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
@@ -1406,19 +1473,6 @@
     "h1b": true
   },
   {
-    "id": "linkedin-junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
-    "title": "Junior Data Analyst",
-    "company": "Global Technical Talent, an Inc. 5000 Company",
-    "location": "Framingham, MA",
-    "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
-    "posted": "2026-04-08",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "linkedin-data-analyst-at-ss-c-technologies-4385100313",
     "title": "Data Analyst",
     "company": "SS&C Technologies",
@@ -1555,32 +1609,6 @@
     "location": "United States",
     "url": "https://www.linkedin.com/jobs/view/business-analyst-at-ss-c-technologies-4386980000",
     "posted": "2026-04-08",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-ccar-business-analyst-at-mitchell-martin-inc-4398400044",
-    "title": "CCAR Business Analyst",
-    "company": "Mitchell Martin Inc.",
-    "location": "Jersey City, NJ",
-    "url": "https://www.linkedin.com/jobs/view/ccar-business-analyst-at-mitchell-martin-inc-4398400044",
-    "posted": "2026-04-07",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-business-analyst-at-the-allan-sullivan-co-4398557857",
-    "title": "Business Analyst",
-    "company": "The Allan Sullivan Co.",
-    "location": "Greater Chicago Area",
-    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-the-allan-sullivan-co-4398557857",
-    "posted": "2026-04-07",
     "source": "LinkedIn",
     "tags": [],
     "description": "",
@@ -1803,11 +1831,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7592301",
+    "id": "greenhouse-7594416",
     "title": "Data Scientist II",
     "company": "Oscar",
-    "location": "New York, New York, United States",
-    "url": "http://www.hioscar.com/careers/7592301?gh_jid=7592301",
+    "location": "Tempe, Arizona, United States",
+    "url": "http://www.hioscar.com/careers/7594416?gh_jid=7594416",
     "posted": "2026-03-31",
     "source": "Greenhouse",
     "tags": [
