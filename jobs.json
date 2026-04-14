@@ -5,7 +5,7 @@
     "company": "Intel",
     "location": "4 Locations",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Foundry-New-Product-Data-Analyst_JR0282358",
-    "posted": "Posted Tod",
+    "posted": "Posted Yes",
     "source": "Workday",
     "tags": [],
     "description": "",
@@ -18,7 +18,7 @@
     "company": "Intel",
     "location": "US, Oregon, Hillsboro",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Foundry-Automation-ML-Engineer_JR0282890-1",
-    "posted": "Posted Tod",
+    "posted": "Posted Yes",
     "source": "Workday",
     "tags": [],
     "description": "",
@@ -31,7 +31,7 @@
     "company": "Intel",
     "location": "4 Locations",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Intel-Foundry-Analytics-Business-Analyst_JR0282777",
-    "posted": "Posted 4 D",
+    "posted": "Posted 5 D",
     "source": "Workday",
     "tags": [],
     "description": "",
@@ -83,7 +83,7 @@
     "company": "Intel",
     "location": "4 Locations",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Sales-Operations-Analyst_JR0282139",
-    "posted": "Posted 25 ",
+    "posted": "Posted 26 ",
     "source": "Workday",
     "tags": [],
     "description": "",
@@ -96,7 +96,7 @@
     "company": "Intel",
     "location": "Malaysia, Penang",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Revenue---Data-Analyst--Contract-_JR0281791-1",
-    "posted": "Posted 19 ",
+    "posted": "Posted 20 ",
     "source": "Workday",
     "tags": [],
     "description": "",
@@ -109,10 +109,25 @@
     "company": "Intel",
     "location": "Israel, Haifa",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Machine-Learning-Engineer-Student-for-AI-Solutions-Group_JR0282589",
-    "posted": "Posted 13 ",
+    "posted": "Posted 14 ",
     "source": "Workday",
     "tags": [],
     "description": "",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7795191",
+    "title": "Monetization Operations Analyst",
+    "company": "Stripe",
+    "location": "IN - Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7795191",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;h1&gt;&lt;strong&gt;Monetization Operations Analyst&lt;/strong&gt;&lt;/h1&gt; &lt;hr&gt; &lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p class=&quot;mb-2 whitespace-pre-wrap&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the worlds largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their",
     "salary": "",
     "h1b": true
   },
@@ -175,17 +190,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-5416444",
+    "id": "greenhouse-6282403",
     "title": "Data Analyst",
     "company": "Stripe",
-    "location": "Canada",
-    "url": "https://stripe.com/jobs/search?gh_jid=5416444",
+    "location": "Mexico City ",
+    "url": "https://stripe.com/jobs/search?gh_jid=6282403",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amoun",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
     "salary": "",
     "h1b": true
   },
@@ -205,17 +220,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7809414",
+    "id": "greenhouse-5895430",
     "title": "Data Scientist",
     "company": "Stripe",
-    "location": "Seattle, WA",
-    "url": "https://stripe.com/jobs/search?gh_jid=7809414",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=5895430",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and acceler",
+    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line g",
     "salary": "",
     "h1b": true
   },
@@ -370,11 +385,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7376835",
+    "id": "greenhouse-7746033",
     "title": "Software Engineer, Machine Learning Infrastructure",
     "company": "Stripe",
-    "location": "N/A",
-    "url": "https://stripe.com/jobs/search?gh_jid=7376835",
+    "location": "Seattle, San Francisco",
+    "url": "https://stripe.com/jobs/search?gh_jid=7746033",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
@@ -550,11 +565,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7612064",
+    "id": "greenhouse-7304867",
     "title": "Staff Data Scientist, Marketing",
     "company": "Asana",
-    "location": "New York City",
-    "url": "https://www.asana.com/jobs/apply/7612064?gh_jid=7612064",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/7304867?gh_jid=7304867",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
@@ -864,6 +879,19 @@
     "h1b": true
   },
   {
+    "id": "linkedin-business-intelligence-analyst-at-academy-bank-4400917457",
+    "title": "Business Intelligence Analyst",
+    "company": "Academy Bank",
+    "location": "Kansas City, MO",
+    "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-academy-bank-4400917457",
+    "posted": "2026-04-11",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "greenhouse-7493743",
     "title": "Senior People Analyst",
     "company": "Datadog",
@@ -914,19 +942,6 @@
     "company": "Legend Biotech",
     "location": "Raritan, NJ",
     "url": "https://www.linkedin.com/jobs/view/process-data-analyst-at-legend-biotech-4375236652",
-    "posted": "2026-04-10",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-bi-analyst-at-rovia-clinical-research-4400383302",
-    "title": "BI Analyst",
-    "company": "Rovia Clinical Research",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/bi-analyst-at-rovia-clinical-research-4400383302",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
