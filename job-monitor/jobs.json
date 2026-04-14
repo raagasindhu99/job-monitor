@@ -190,17 +190,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-6282403",
+    "id": "greenhouse-5601881",
     "title": "Data Analyst",
     "company": "Stripe",
-    "location": "Mexico City ",
-    "url": "https://stripe.com/jobs/search?gh_jid=6282403",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
+    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our miss",
     "salary": "",
     "h1b": true
   },
@@ -220,17 +220,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-5895430",
+    "id": "greenhouse-7809414",
     "title": "Data Scientist",
     "company": "Stripe",
-    "location": "Toronto",
-    "url": "https://stripe.com/jobs/search?gh_jid=5895430",
+    "location": "Seattle, WA",
+    "url": "https://stripe.com/jobs/search?gh_jid=7809414",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;div class=&quot;ace-line g",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and acceler",
     "salary": "",
     "h1b": true
   },
@@ -1006,17 +1006,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7641390002",
+    "id": "greenhouse-7734812002",
     "title": "Senior Manager, Infrastructure Data Science",
     "company": "Databricks",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p data-renderer-start-pos=&quot;1648&quot;&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges ",
+    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges related to capacity planning, performance optimization, reliability",
     "salary": "",
     "h1b": true
   },
@@ -1141,11 +1141,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7735254",
+    "id": "greenhouse-7735255",
     "title": "Principal Java Engineer II - Machine Learning - Elasticsearch",
     "company": "Elastic",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254",
+    "location": "Canada",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7735255&gh_jid=7735255",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
