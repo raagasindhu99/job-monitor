@@ -91,6 +91,81 @@
     "h1b": true
   },
   {
+    "id": "greenhouse-7725834",
+    "title": "Principal Sales Operations Analyst",
+    "company": "Mongodb",
+    "location": "Gurugram",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7725834",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;We’re looking for a driven individual with strong analytical instincts and a passion for turning data into actionable insights to support a rapidly growing Customer Success organization. In this role, you’ll guide the analytical rhythm of the business in partnership with CS leadership to surface trends, optimize segmentation and territories, and inform headcount and planning decisions. Yo",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-6841436",
+    "title": "Senior Business Analyst, Technical Services",
+    "company": "Mongodb",
+    "location": "New York City",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6841436",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;Partnering with stakeholders in the Technical Services (post-sales support) team, Analytics team, and other teams around the business, this role will surface key insights to drive business decision making. This role requires someone with strong analytical and technical skills, operational experience driving efficiencies, ability to apply a data-first mindset to strategic initiatives, and ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7696633",
+    "title": "Senior Data Analyst",
+    "company": "Mongodb",
+    "location": "United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7696633",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;The worldwide data management software market is massive (According to IDC, the worldwide database software market, which it refers to as the database management systems software market, was forecasted to be approximately $82 billion in 2023 growing to approximately $137 billion in 2027. This represents a 14% compound annual growth rate). At MongoDB we are transforming industries and empo",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7532424",
+    "title": "Senior Data Analyst II, Growth",
+    "company": "Mongodb",
+    "location": "United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7532424",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;As a Senior Data Analyst II, Growth Analytics, you will be a critical contributor to MongoDB’s Product-Led-Growth business, becoming an expert in the middle and later stages of our relationship with customers to help identify and respond to changes in business performance and adjust our strategies accordingly. This is a highly visible role whose work will be directly leveraged at the exec",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-7716912",
+    "title": "Senior Sales Operations Analyst",
+    "company": "Mongodb",
+    "location": "Dublin",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7716912",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;h3&gt;The role&lt;/h3&gt; &lt;p&gt;To fuel this growth, we are hiring a Senior GTM Intelligence Analyst to build the data-driven analytics team. This role is a key member of our growing GTM Analytics team and is responsible for building and maintaining data infrastructure used by our global salesforce and leadership team, with a strong emphasis on stakeholder collaboration.&lt;/p&gt; &lt;h3&gt",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "greenhouse-7795191",
     "title": "Monetization Operations Analyst",
     "company": "Stripe",
@@ -188,6 +263,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-junior-data-scientist-at-tech-consulting-4400751213",
+    "title": "Junior Data Scientist",
+    "company": "Tech Consulting",
+    "location": "Missouri, United States",
+    "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-tech-consulting-4400751213",
+    "posted": "2026-04-14",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-business-analyst-at-st-louis-blues-4399576928",
     "title": "Business Analyst",
     "company": "St. Louis Blues",
@@ -246,17 +334,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-5416444",
+    "id": "greenhouse-5601881",
     "title": "Data Analyst",
     "company": "Stripe",
-    "location": "Canada",
-    "url": "https://stripe.com/jobs/search?gh_jid=5416444",
+    "location": "US",
+    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amoun",
+    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our miss",
     "salary": "",
     "h1b": true
   },
@@ -441,11 +529,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7746033",
+    "id": "greenhouse-7376835",
     "title": "Software Engineer, Machine Learning Infrastructure",
     "company": "Stripe",
-    "location": "Seattle, San Francisco",
-    "url": "https://stripe.com/jobs/search?gh_jid=7746033",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7376835",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
@@ -1017,17 +1105,17 @@
     "h1b": false
   },
   {
-    "id": "linkedin-applied-scientist-at-zillow-4377897995",
-    "title": "Applied Scientist",
-    "company": "Zillow",
-    "location": "United States",
-    "url": "https://www.linkedin.com/jobs/view/applied-scientist-at-zillow-4377897995",
+    "id": "linkedin-data-scientist-%E2%80%93-ai-training-evaluation-at-alignerr-4400364729",
+    "title": "Data Scientist – AI Training & Evaluation",
+    "company": "Alignerr",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-ai-training-evaluation-at-alignerr-4400364729",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
     "description": "",
     "salary": "",
-    "h1b": true
+    "h1b": false
   },
   {
     "id": "linkedin-early-career-ai-ml-engineer-at-brain-co-4362406858",
@@ -1260,11 +1348,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7735255",
+    "id": "greenhouse-7735254",
     "title": "Principal Java Engineer II - Machine Learning - Elasticsearch",
     "company": "Elastic",
-    "location": "Canada",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7735255&gh_jid=7735255",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
@@ -1301,32 +1389,6 @@
     "h1b": true
   },
   {
-    "id": "linkedin-machine-learning-engineer-at-city-of-new-york-4398842170",
-    "title": "Machine Learning Engineer",
-    "company": "City of New York",
-    "location": "Brooklyn, NY",
-    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-city-of-new-york-4398842170",
-    "posted": "2026-04-09",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-data-scientist-atlanta-ga-at-cortland-4400242584",
-    "title": "Data Scientist - Atlanta, GA",
-    "company": "Cortland",
-    "location": "Atlanta, GA",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-atlanta-ga-at-cortland-4400242584",
-    "posted": "2026-04-09",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "linkedin-ml-engineer-at-catalyst-labs-4398687038",
     "title": "ML Engineer",
     "company": "Catalyst Labs",
@@ -1351,81 +1413,6 @@
     "description": "",
     "salary": "",
     "h1b": false
-  },
-  {
-    "id": "greenhouse-7725834",
-    "title": "Principal Sales Operations Analyst",
-    "company": "Mongodb",
-    "location": "Gurugram",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7725834",
-    "posted": "2026-04-08",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;We’re looking for a driven individual with strong analytical instincts and a passion for turning data into actionable insights to support a rapidly growing Customer Success organization. In this role, you’ll guide the analytical rhythm of the business in partnership with CS leadership to surface trends, optimize segmentation and territories, and inform headcount and planning decisions. Yo",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-6841436",
-    "title": "Senior Business Analyst, Technical Services",
-    "company": "Mongodb",
-    "location": "New York City",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=6841436",
-    "posted": "2026-04-08",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;Partnering with stakeholders in the Technical Services (post-sales support) team, Analytics team, and other teams around the business, this role will surface key insights to drive business decision making. This role requires someone with strong analytical and technical skills, operational experience driving efficiencies, ability to apply a data-first mindset to strategic initiatives, and ",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7696633",
-    "title": "Senior Data Analyst",
-    "company": "Mongodb",
-    "location": "United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7696633",
-    "posted": "2026-04-08",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;The worldwide data management software market is massive (According to IDC, the worldwide database software market, which it refers to as the database management systems software market, was forecasted to be approximately $82 billion in 2023 growing to approximately $137 billion in 2027. This represents a 14% compound annual growth rate). At MongoDB we are transforming industries and empo",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7532424",
-    "title": "Senior Data Analyst II, Growth",
-    "company": "Mongodb",
-    "location": "United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7532424",
-    "posted": "2026-04-08",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;As a Senior Data Analyst II, Growth Analytics, you will be a critical contributor to MongoDB’s Product-Led-Growth business, becoming an expert in the middle and later stages of our relationship with customers to help identify and respond to changes in business performance and adjust our strategies accordingly. This is a highly visible role whose work will be directly leveraged at the exec",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-7716912",
-    "title": "Senior Sales Operations Analyst",
-    "company": "Mongodb",
-    "location": "Dublin",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7716912",
-    "posted": "2026-04-08",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;h3&gt;The role&lt;/h3&gt; &lt;p&gt;To fuel this growth, we are hiring a Senior GTM Intelligence Analyst to build the data-driven analytics team. This role is a key member of our growing GTM Analytics team and is responsible for building and maintaining data infrastructure used by our global salesforce and leadership team, with a strong emphasis on stakeholder collaboration.&lt;/p&gt; &lt;h3&gt",
-    "salary": "",
-    "h1b": true
   },
   {
     "id": "greenhouse-8403069002",
