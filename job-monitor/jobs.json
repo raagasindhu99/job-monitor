@@ -211,6 +211,111 @@
     "h1b": false
   },
   {
+    "id": "greenhouse-7482186",
+    "title": "Senior Data Scientist, ML (Brokerage)",
+    "company": "Robinhood",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7482186?t=gh_src=&gh_jid=7482186",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;Join us in building the future of finance.&lt;/h2&gt; &lt;p&gt;Our mission is to democratize finance for all. &lt;a href=&quot;https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048&quot; target=&quot;_blank&quot;&gt;An estimated $124 trillion of assets&lt;/a&gt; will be inherited by younger ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-8403069002",
+    "title": "Lead Data Analyst",
+    "company": "Chime",
+    "location": "San Francisco, CA, USA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8403069002?gh_jid=8403069002",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;h3&gt;About the Role&lt;/h3&gt; &lt;p&gt;Chime is the largest and fastest-growing U.S. player in the challenger-banking space. Through our banking partners, we offer access to bank accounts with fee-free overdraft, provide members the chance to receive early access to their paychecks, help them improve their credit, and more. We created Chime because we believe everyone deserves financial peac",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-8462910002",
+    "title": "Lead Data Analyst, Growth Science",
+    "company": "Chime",
+    "location": "New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8462910002?gh_jid=8462910002",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We’re hiring a Lead Data Analyst, Growth Science to use advanced science to estimate the incrementality of Marketing, Product, and Lifecycle Marketing and to improve their performance. As a senior individual contributor, you’ll lead high-impact growth initiatives through the use of media mix modeling, experimentation and qua",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-8344077002",
+    "title": "Senior Data Analyst, Spending",
+    "company": "Chime",
+    "location": "San Francisco, CA, USA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8344077002?gh_jid=8344077002",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Spending Product Analyst, you will have the opportunity to develop, test, launch and scale member banking experience products that build products that make Chime banking the best place to spend, save and invest. Spending XFN organization’s mission is to deliver industry-leading spending products that members want to keep ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-8344063002",
+    "title": "Senior Data Analyst, Trust & Safety",
+    "company": "Chime",
+    "location": "San Francisco, CA, USA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8344063002?gh_jid=8344063002",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Trust &amp; Safety Product Analyst, you will have the opportunity to develop, test, launch and scale member banking experience products that build security awareness and adoption, keeping our members and Chime safe. Trust &amp; Safety organization’s mission is to make Chime the most trusted financial partner by safeguardi",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-8445046002",
+    "title": "Sr. Data Analyst, Lifecycle Marketing",
+    "company": "Chime",
+    "location": "New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8445046002?gh_jid=8445046002",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We’re hiring a Lifecycle Marketing Data Analyst to help us better understand how our members engage across the customer journey and how we use our owned channels to communicate with them, from onboarding to long-term retention. As our Lifecycle Marketing Data Analyst, you’ll partner closely with Lifecycle Marketing to report",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-8403065002",
+    "title": "Staff Data Analyst",
+    "company": "Chime",
+    "location": "San Francisco, CA, USA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8403065002?gh_jid=8403065002",
+    "posted": "2026-04-14",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;h3&gt;About the Role&lt;/h3&gt; &lt;p&gt;Chime is the largest and fastest-growing U.S. player in the challenger-banking space. Through our banking partners, we offer access to bank accounts with fee-free overdraft, provide members the chance to receive early access to their paychecks, help them improve their credit, and more. We created Chime because we believe everyone deserves financial peac",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "linkedin-data-analyst-at-emonics-llc-4400784904",
     "title": "Data Analyst",
     "company": "Emonics LLC",
@@ -242,19 +347,6 @@
     "company": "Persepta",
     "location": "Dallas, TX",
     "url": "https://www.linkedin.com/jobs/view/analytics-engineer-power-bi-specialist-at-persepta-4400761923",
-    "posted": "2026-04-14",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-data-scientist-at-octus-4401112146",
-    "title": "Data Scientist",
-    "company": "Octus",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-at-octus-4401112146",
     "posted": "2026-04-14",
     "source": "LinkedIn",
     "tags": [],
@@ -334,17 +426,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-5601881",
+    "id": "greenhouse-6282403",
     "title": "Data Analyst",
     "company": "Stripe",
-    "location": "US",
-    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
+    "location": "Mexico City ",
+    "url": "https://stripe.com/jobs/search?gh_jid=6282403",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our miss",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
     "salary": "",
     "h1b": true
   },
@@ -963,11 +1055,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8463696002",
+    "id": "greenhouse-8463702002",
     "title": "Data Analyst II",
     "company": "Brex",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
+    "location": "New York, New York, United States",
+    "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -978,11 +1070,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8463704002",
+    "id": "greenhouse-8463699002",
     "title": "Data Analyst III",
     "company": "Brex",
-    "location": "New York, New York, United States",
-    "url": "https://www.brex.com/careers/8463704002?gh_jid=8463704002",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8463699002?gh_jid=8463699002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -993,11 +1085,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8485385002",
+    "id": "greenhouse-8485352002",
     "title": "Senior Revenue Operations Analyst",
     "company": "Brex",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/8485385002?gh_jid=8485385002",
+    "location": "New York, New York, United States",
+    "url": "https://www.brex.com/careers/8485352002?gh_jid=8485352002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -1008,11 +1100,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8430182002",
+    "id": "greenhouse-8430196002",
     "title": "Senior Software Engineer, Product Data Platform",
     "company": "Brex",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/8430182002?gh_jid=8430182002",
+    "location": "Vancouver, British Columbia, Canada",
+    "url": "https://www.brex.com/careers/8430196002?gh_jid=8430196002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -1105,17 +1197,17 @@
     "h1b": false
   },
   {
-    "id": "linkedin-data-scientist-%E2%80%93-ai-training-evaluation-at-alignerr-4400364729",
-    "title": "Data Scientist – AI Training & Evaluation",
-    "company": "Alignerr",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-ai-training-evaluation-at-alignerr-4400364729",
+    "id": "linkedin-applied-scientist-at-zillow-4377897995",
+    "title": "Applied Scientist",
+    "company": "Zillow",
+    "location": "United States",
+    "url": "https://www.linkedin.com/jobs/view/applied-scientist-at-zillow-4377897995",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
     "description": "",
     "salary": "",
-    "h1b": false
+    "h1b": true
   },
   {
     "id": "linkedin-early-career-ai-ml-engineer-at-brain-co-4362406858",
@@ -1348,11 +1440,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7735254",
+    "id": "greenhouse-7440363",
     "title": "Principal Java Engineer II - Machine Learning - Elasticsearch",
     "company": "Elastic",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254",
+    "location": "United Kingdom",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7440363&gh_jid=7440363",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
@@ -1389,6 +1481,32 @@
     "h1b": true
   },
   {
+    "id": "linkedin-machine-learning-engineer-at-city-of-new-york-4398842170",
+    "title": "Machine Learning Engineer",
+    "company": "City of New York",
+    "location": "Brooklyn, NY",
+    "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-city-of-new-york-4398842170",
+    "posted": "2026-04-09",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
+    "id": "linkedin-data-scientist-atlanta-ga-at-cortland-4400242584",
+    "title": "Data Scientist - Atlanta, GA",
+    "company": "Cortland",
+    "location": "Atlanta, GA",
+    "url": "https://www.linkedin.com/jobs/view/data-scientist-atlanta-ga-at-cortland-4400242584",
+    "posted": "2026-04-09",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-ml-engineer-at-catalyst-labs-4398687038",
     "title": "ML Engineer",
     "company": "Catalyst Labs",
@@ -1413,51 +1531,6 @@
     "description": "",
     "salary": "",
     "h1b": false
-  },
-  {
-    "id": "greenhouse-8403069002",
-    "title": "Lead Data Analyst",
-    "company": "Chime",
-    "location": "San Francisco, CA, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8403069002?gh_jid=8403069002",
-    "posted": "2026-04-08",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;h3&gt;About the Role&lt;/h3&gt; &lt;p&gt;Chime is the largest and fastest-growing U.S. player in the challenger-banking space. Through our banking partners, we offer access to bank accounts with fee-free overdraft, provide members the chance to receive early access to their paychecks, help them improve their credit, and more. We created Chime because we believe everyone deserves financial peac",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-8462910002",
-    "title": "Lead Data Analyst, Growth Science",
-    "company": "Chime",
-    "location": "New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8462910002?gh_jid=8462910002",
-    "posted": "2026-04-08",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We’re hiring a Lead Data Analyst, Growth Science to use advanced science to estimate the incrementality of Marketing, Product, and Lifecycle Marketing and to improve their performance. As a senior individual contributor, you’ll lead high-impact growth initiatives through the use of media mix modeling, experimentation and qua",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-8403065002",
-    "title": "Staff Data Analyst",
-    "company": "Chime",
-    "location": "San Francisco, CA, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8403065002?gh_jid=8403065002",
-    "posted": "2026-04-08",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;h3&gt;About the Role&lt;/h3&gt; &lt;p&gt;Chime is the largest and fastest-growing U.S. player in the challenger-banking space. Through our banking partners, we offer access to bank accounts with fee-free overdraft, provide members the chance to receive early access to their paychecks, help them improve their credit, and more. We created Chime because we believe everyone deserves financial peac",
-    "salary": "",
-    "h1b": true
   },
   {
     "id": "linkedin-data-analyst-at-ss-c-technologies-4385100313",
@@ -1968,21 +2041,6 @@
     "h1b": false
   },
   {
-    "id": "greenhouse-8344063002",
-    "title": "Senior Data Analyst, Trust & Safety",
-    "company": "Chime",
-    "location": "San Francisco, CA, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8344063002?gh_jid=8344063002",
-    "posted": "2026-03-19",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Trust &amp; Safety Product Analyst, you will have the opportunity to develop, test, launch and scale member banking experience products that build security awareness and adoption, keeping our members and Chime safe. Trust &amp; Safety organization’s mission is to make Chime the most trusted financial partner by safeguardi",
-    "salary": "",
-    "h1b": true
-  },
-  {
     "id": "greenhouse-7324983",
     "title": "Data Scientist, Product",
     "company": "Robinhood",
@@ -2024,36 +2082,6 @@
       ""
     ],
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;Join us in building the future of finance.&lt;/h2&gt; &lt;p&gt;Our mission is to democratize finance for all. &lt;a href=&quot;https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048&quot; target=&quot;_blank&quot;&gt;An estimated $124 trillion of assets&lt;/a&gt; will be inherited by younger ",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-8344077002",
-    "title": "Senior Data Analyst, Spending",
-    "company": "Chime",
-    "location": "San Francisco, CA, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8344077002?gh_jid=8344077002",
-    "posted": "2026-03-18",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Spending Product Analyst, you will have the opportunity to develop, test, launch and scale member banking experience products that build products that make Chime banking the best place to spend, save and invest. Spending XFN organization’s mission is to deliver industry-leading spending products that members want to keep ",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-8445046002",
-    "title": "Sr. Data Analyst, Lifecycle Marketing",
-    "company": "Chime",
-    "location": "New York, NY, USA; San Francisco, CA, USA; Seattle, WA, USA",
-    "url": "https://boards.greenhouse.io/chime/jobs/8445046002?gh_jid=8445046002",
-    "posted": "2026-03-18",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We’re hiring a Lifecycle Marketing Data Analyst to help us better understand how our members engage across the customer journey and how we use our owned channels to communicate with them, from onboarding to long-term retention. As our Lifecycle Marketing Data Analyst, you’ll partner closely with Lifecycle Marketing to report",
     "salary": "",
     "h1b": true
   },
