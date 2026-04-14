@@ -190,17 +190,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-5601881",
+    "id": "greenhouse-6282403",
     "title": "Data Analyst",
     "company": "Stripe",
-    "location": "US",
-    "url": "https://stripe.com/jobs/search?gh_jid=5601881",
+    "location": "Mexico City ",
+    "url": "https://stripe.com/jobs/search?gh_jid=6282403",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;div class=&quot;ace-line gutter-author-p-118095 emptyGutter&quot;&gt; &lt;h2&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our miss",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the ",
     "salary": "",
     "h1b": true
   },
@@ -385,11 +385,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7746033",
+    "id": "greenhouse-7376835",
     "title": "Software Engineer, Machine Learning Infrastructure",
     "company": "Stripe",
-    "location": "Seattle, San Francisco",
-    "url": "https://stripe.com/jobs/search?gh_jid=7746033",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7376835",
     "posted": "2026-04-13",
     "source": "Greenhouse",
     "tags": [
@@ -711,19 +711,6 @@
     "h1b": false
   },
   {
-    "id": "linkedin-junior-data-scientist-at-tech-consulting-4399606656",
-    "title": "Junior Data Scientist",
-    "company": "Tech Consulting",
-    "location": "Florida, United States",
-    "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-tech-consulting-4399606656",
-    "posted": "2026-04-13",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "linkedin-business-intelligence-analyst-at-perkspot-4400000894",
     "title": "Business Intelligence Analyst",
     "company": "PerkSpot",
@@ -879,6 +866,19 @@
     "h1b": true
   },
   {
+    "id": "linkedin-ai-data-scientist-at-burlington-stores-inc-4387993791",
+    "title": "AI Data Scientist",
+    "company": "Burlington Stores, Inc.",
+    "location": "Beverly, NJ",
+    "url": "https://www.linkedin.com/jobs/view/ai-data-scientist-at-burlington-stores-inc-4387993791",
+    "posted": "2026-04-11",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-business-intelligence-analyst-at-academy-bank-4400917457",
     "title": "Business Intelligence Analyst",
     "company": "Academy Bank",
@@ -950,6 +950,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-early-career-ai-ml-engineer-at-brain-co-4362406858",
+    "title": "Early Career AI/ML Engineer",
+    "company": "Brain Co.",
+    "location": "San Francisco Bay Area",
+    "url": "https://www.linkedin.com/jobs/view/early-career-ai-ml-engineer-at-brain-co-4362406858",
+    "posted": "2026-04-10",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-bi-analyst-at-consultnet-technology-services-and-solutions-4400623254",
     "title": "BI Analyst",
     "company": "ConsultNet Technology Services and Solutions",
@@ -1006,17 +1019,17 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7734812002",
+    "id": "greenhouse-7641390002",
     "title": "Senior Manager, Infrastructure Data Science",
     "company": "Databricks",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
       ""
     ],
-    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges related to capacity planning, performance optimization, reliability",
+    "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ225R487&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Description&lt;/strong&gt;&lt;/h3&gt; &lt;p data-renderer-start-pos=&quot;1648&quot;&gt;&nbsp;&lt;/p&gt; &lt;p&gt;Databricks is looking for a Senior Manager, Infrastructure Data Science to shape the future of Databricks infrastructure through data science. You will tackle some of the most complex challenges ",
     "salary": "",
     "h1b": true
   },
@@ -1141,11 +1154,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-7735255",
+    "id": "greenhouse-7735254",
     "title": "Principal Java Engineer II - Machine Learning - Elasticsearch",
     "company": "Elastic",
-    "location": "Canada",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7735255&gh_jid=7735255",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7735254&gh_jid=7735254",
     "posted": "2026-04-09",
     "source": "Greenhouse",
     "tags": [
@@ -1180,19 +1193,6 @@
     "description": "",
     "salary": "",
     "h1b": true
-  },
-  {
-    "id": "linkedin-ml-engineer-at-catalyst-labs-4398687038",
-    "title": "ML Engineer",
-    "company": "Catalyst Labs",
-    "location": "San Francisco, CA",
-    "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398687038",
-    "posted": "2026-04-09",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
   },
   {
     "id": "linkedin-business-analyst-starlink-growth-at-spacex-4369008233",
@@ -2153,18 +2153,5 @@
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stay",
     "salary": "",
     "h1b": true
-  },
-  {
-    "id": "himalayas-Business Intelligence Analyst ",
-    "title": "Business Intelligence Analyst Senior (Work from Home United States)",
-    "company": "Geisinger",
-    "location": "Australia",
-    "url": "",
-    "posted": "",
-    "source": "Himalayas",
-    "tags": [],
-    "description": "Location: Work from home (Pennsylvania) Shift: Days (United States of America) Scheduled Weekly Hours: 40 Worker Type: Regular Exemption Status: Yes Job Summary: Responsible for performing tasks related to project completion including analysis, testing, documentation, problem resolution, and implementation of solutions as they apply to the organization's strategy. Responsible for performing tasks ",
-    "salary": "",
-    "h1b": false
   }
 ]
