@@ -117,6 +117,19 @@
     "h1b": true
   },
   {
+    "id": "linkedin-business-analyst-at-st-louis-blues-4399576928",
+    "title": "Business Analyst",
+    "company": "St. Louis Blues",
+    "location": "St Louis, MO",
+    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-st-louis-blues-4399576928",
+    "posted": "2026-04-14",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "greenhouse-7810544",
     "title": "Senior Customer Data Science - Solutions / Experimentation",
     "company": "Datadog",
@@ -327,6 +340,21 @@
     "h1b": true
   },
   {
+    "id": "greenhouse-7230921",
+    "title": "Risk Operations Analyst",
+    "company": "Stripe",
+    "location": "Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=7230921",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Who we are&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;About Stripe&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of comp",
+    "salary": "",
+    "h1b": true
+  },
+  {
     "id": "greenhouse-7430332",
     "title": "Risk Operations Analyst, Financial Crimes",
     "company": "Stripe",
@@ -398,6 +426,66 @@
       ""
     ],
     "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and acceler",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-5707966004",
+    "title": "AI Applied Scientist",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether youre brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-5552580004",
+    "title": "Data Scientist  ",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether youre brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-5737300004",
+    "title": "People Analyst",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5737300004?gh_jid=5737300004",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether youre brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and ",
+    "salary": "",
+    "h1b": true
+  },
+  {
+    "id": "greenhouse-5551532004",
+    "title": "Software Engineer, Machine Learning",
+    "company": "Figma",
+    "location": "San Francisco, CA • New York, NY • United States",
+    "url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
+    "posted": "2026-04-13",
+    "source": "Greenhouse",
+    "tags": [
+      ""
+    ],
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether youre brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and ",
     "salary": "",
     "h1b": true
   },
@@ -507,6 +595,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-data-analyst-at-aditi-consulting-4401514813",
+    "title": "Data Analyst",
+    "company": "Aditi Consulting",
+    "location": "Redmond, WA",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aditi-consulting-4401514813",
+    "posted": "2026-04-13",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "linkedin-data-scientist-customer-analytics-at-cresta-4364044356",
     "title": "Data Scientist, Customer Analytics",
     "company": "Cresta",
@@ -572,6 +673,19 @@
     "h1b": false
   },
   {
+    "id": "linkedin-product-specialist-business-analyst-at-covr-financial-technologies-4401509986",
+    "title": "Product Specialist/Business Analyst",
+    "company": "Covr Financial Technologies",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/product-specialist-business-analyst-at-covr-financial-technologies-4401509986",
+    "posted": "2026-04-13",
+    "source": "LinkedIn",
+    "tags": [],
+    "description": "",
+    "salary": "",
+    "h1b": false
+  },
+  {
     "id": "greenhouse-7674622003",
     "title": "Marketing Insights Analyst",
     "company": "Fivetran",
@@ -602,11 +716,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8463702002",
+    "id": "greenhouse-8463696002",
     "title": "Data Analyst II",
     "company": "Brex",
-    "location": "New York, New York, United States",
-    "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -617,11 +731,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8463699002",
+    "id": "greenhouse-8463704002",
     "title": "Data Analyst III",
     "company": "Brex",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/8463699002?gh_jid=8463699002",
+    "location": "New York, New York, United States",
+    "url": "https://www.brex.com/careers/8463704002?gh_jid=8463704002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -647,11 +761,11 @@
     "h1b": true
   },
   {
-    "id": "greenhouse-8430196002",
+    "id": "greenhouse-8430197002",
     "title": "Senior Software Engineer, Product Data Platform",
     "company": "Brex",
-    "location": "Vancouver, British Columbia, Canada",
-    "url": "https://www.brex.com/careers/8430196002?gh_jid=8430196002",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8430197002?gh_jid=8430197002",
     "posted": "2026-04-11",
     "source": "Greenhouse",
     "tags": [
@@ -748,19 +862,6 @@
     "h1b": false
   },
   {
-    "id": "linkedin-data-analyst-powerbi-and-dax-at-teksystems-4400374350",
-    "title": "Data Analyst (PowerBI And DAX)",
-    "company": "TEKsystems",
-    "location": "Schaumburg, IL",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-powerbi-and-dax-at-teksystems-4400374350",
-    "posted": "2026-04-10",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
     "id": "linkedin-bi-analyst-at-rovia-clinical-research-4400383302",
     "title": "BI Analyst",
     "company": "Rovia Clinical Research",
@@ -792,19 +893,6 @@
     "company": "Carnival Corporation",
     "location": "Miami, FL",
     "url": "https://www.linkedin.com/jobs/view/analyst-business-intelligence-ccl-at-carnival-corporation-4369282492",
-    "posted": "2026-04-10",
-    "source": "LinkedIn",
-    "tags": [],
-    "description": "",
-    "salary": "",
-    "h1b": false
-  },
-  {
-    "id": "linkedin-business-analyst-at-esri-4400635283",
-    "title": "Business Analyst",
-    "company": "Esri",
-    "location": "Redlands, CA",
-    "url": "https://www.linkedin.com/jobs/view/business-analyst-at-esri-4400635283",
     "posted": "2026-04-10",
     "source": "LinkedIn",
     "tags": [],
@@ -1019,11 +1107,11 @@
     "h1b": true
   },
   {
-    "id": "linkedin-ml-engineer-at-catalyst-labs-4398670363",
+    "id": "linkedin-ml-engineer-at-catalyst-labs-4398687038",
     "title": "ML Engineer",
     "company": "Catalyst Labs",
-    "location": "California, United States",
-    "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398670363",
+    "location": "San Francisco, CA",
+    "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-catalyst-labs-4398687038",
     "posted": "2026-04-09",
     "source": "LinkedIn",
     "tags": [],
@@ -1180,11 +1268,11 @@
     "h1b": true
   },
   {
-    "id": "linkedin-data-analyst-at-ss-c-technologies-4385100313",
-    "title": "Data Analyst",
-    "company": "SS&C Technologies",
-    "location": "New York, NY",
-    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ss-c-technologies-4385100313",
+    "id": "linkedin-junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
+    "title": "Junior Data Analyst",
+    "company": "Global Technical Talent, an Inc. 5000 Company",
+    "location": "Framingham, MA",
+    "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
@@ -1193,11 +1281,11 @@
     "h1b": false
   },
   {
-    "id": "linkedin-junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
-    "title": "Junior Data Analyst",
-    "company": "Global Technical Talent, an Inc. 5000 Company",
-    "location": "Framingham, MA",
-    "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-global-technical-talent-an-inc-5000-company-4398417362",
+    "id": "linkedin-data-analyst-at-ss-c-technologies-4385100313",
+    "title": "Data Analyst",
+    "company": "SS&C Technologies",
+    "location": "New York, NY",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ss-c-technologies-4385100313",
     "posted": "2026-04-08",
     "source": "LinkedIn",
     "tags": [],
@@ -1702,11 +1790,11 @@
     "h1b": false
   },
   {
-    "id": "greenhouse-7374162",
+    "id": "greenhouse-7374160",
     "title": "Senior Data Scientist, Advanced Risk Modeling",
     "company": "Oscar",
-    "location": "Tempe, Arizona, United States",
-    "url": "http://www.hioscar.com/careers/7374162?gh_jid=7374162",
+    "location": "Los Angeles, California, United States",
+    "url": "http://www.hioscar.com/careers/7374160?gh_jid=7374160",
     "posted": "2026-03-31",
     "source": "Greenhouse",
     "tags": [
@@ -2048,66 +2136,6 @@
       ""
     ],
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stay",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-5707966004",
-    "title": "AI Applied Scientist",
-    "company": "Figma",
-    "location": "San Francisco, CA • New York, NY • United States",
-    "url": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
-    "posted": "2025-12-17",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether youre brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and ",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-5737300004",
-    "title": "People Analyst",
-    "company": "Figma",
-    "location": "San Francisco, CA • New York, NY • United States",
-    "url": "https://boards.greenhouse.io/figma/jobs/5737300004?gh_jid=5737300004",
-    "posted": "2025-12-17",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether youre brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and ",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-5552580004",
-    "title": "Data Scientist  ",
-    "company": "Figma",
-    "location": "San Francisco, CA • New York, NY • United States",
-    "url": "https://boards.greenhouse.io/figma/jobs/5552580004?gh_jid=5552580004",
-    "posted": "2025-11-19",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether youre brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and ",
-    "salary": "",
-    "h1b": true
-  },
-  {
-    "id": "greenhouse-5551532004",
-    "title": "Software Engineer, Machine Learning",
-    "company": "Figma",
-    "location": "San Francisco, CA • New York, NY • United States",
-    "url": "https://boards.greenhouse.io/figma/jobs/5551532004?gh_jid=5551532004",
-    "posted": "2025-11-19",
-    "source": "Greenhouse",
-    "tags": [
-      ""
-    ],
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether youre brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and ",
     "salary": "",
     "h1b": true
   },
